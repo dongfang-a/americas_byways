@@ -1,0 +1,39 @@
+﻿fhwa_id,name,states,geometry_source,geometry_source_detail,segment_count,point_count,status,source_url
+2477,A1A Scenic & Historic Coastal Byway,Florida,ArcGIS,FeatureServer layer 2,78,581,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2477
+13791,Acadia All-American Road,Maine,ArcGIS,FeatureServer layer 1,8,890,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13791
+12398,Alaska Marine Highway,Alaska,ArcGIS,FeatureServer layer 1,31,932,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/12398
+2281,Beartooth Highway,"Montana, Wyoming",ArcGIS,FeatureServer layer 1,6,1458,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2281
+2280,Blue Ridge Parkway,"North Carolina, Virginia",ArcGIS,FeatureServer layer 1,30,7791,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2280
+2261,Chesapeake Country Scenic Byway,Maryland,ArcGIS,FeatureServer layer 2,37,1107,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2261
+2226,Chinook Scenic Byway,Washington,ArcGIS,FeatureServer layer 1,8,1038,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2226
+60441,Colonial Parkway,Virginia,ArcGIS,FeatureServer layer 1,28,1516,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/60441
+2454,Creole Nature Trail,Louisiana,ArcGIS,FeatureServer layer 1,38,1075,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2454
+81527,Door County Coastal Byway,Wisconsin,ArcGIS,FeatureServer layer 6,12,470,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81527
+2290,Flaming Gorge - Green River Basin Scenic Byway,Wyoming,ArcGIS,FeatureServer layer 2,10,2733,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2290
+2555,Florida Keys Scenic Highway,Florida,ArcGIS,FeatureServer layer 1,84,1900,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2555
+60807,George Washington Memorial Parkway,Virginia,ArcGIS,FeatureServer layer 1,17,343,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/60807
+2279,Great River Road,"Arkansas, Illinois, Iowa, Kentucky, Louisiana, Minnesota, Mississippi, Missouri, Tennessee, Wisconsin",ArcGIS,FeatureServer layer 2,44,23250,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2279
+2260,Harriet Tubman Underground Railroad Byway,Maryland,ArcGIS,FeatureServer layer 1,12,919,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2260
+2145,Hells Canyon Scenic Byway,Oregon,ArcGIS,FeatureServer layer 1,49,1910,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2145
+2141,Historic Columbia River Highway,Oregon,ArcGIS,FeatureServer layer 1,2,448,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2141
+2278,Historic National Road,"Illinois, Indiana, Maryland, Ohio, Pennsylvania, West Virginia",ArcGIS,FeatureServer layer 1,9,4961,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2278
+2489,Historic Route 66,"Arizona, Illinois, New Mexico, Oklahoma, California, Missouri",ArcGIS,FeatureServer layer 1,10,7794,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2489
+2486,International Selkirk Loop,"Idaho, Washington",ArcGIS,FeatureServer layer 1,104,6123,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2486
+2479,Lakes to Locks Passage,New York,ArcGIS,FeatureServer layer 1,102,4488,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2479
+2032,Las Vegas Strip,Nevada,ArcGIS,FeatureServer layer 1,1,27,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2032
+81508,Lincoln Highway Scenic & History Byway,Nebraska,ArcGIS,FeatureServer layer 2,118,2076,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81508
+2285,Natchez Trace Parkway,"Alabama, Mississippi, Tennessee",ArcGIS,FeatureServer layer 1,114,7841,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2285
+81515,Newfound Gap Road Byway,"North Carolina, Tennessee",OSM补齐,"OSRM public route over OSM road network via Gatlinburg/Sugarlands, Newfound Gap, Cherokee/Oconaluftee",1,2471,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81515
+11185,North Shore Scenic Drive,Minnesota,ArcGIS,FeatureServer layer 1,41,1433,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/11185
+2043,Northwest Passage Scenic Byway,Idaho,ArcGIS,FeatureServer layer 1,85,8714,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2043
+2143,Pacific Coast Scenic Byway - Oregon,Oregon,ArcGIS,FeatureServer layer 1,316,9626,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2143
+11290,Red Rock Scenic Byway,Arizona,ArcGIS,FeatureServer layer 1,9,867,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/11290
+2301,Route 1 - Big Sur Coast Highway,California,ArcGIS,FeatureServer layer 1,198,3367,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2301
+2475,Route 1 - San Luis Obispo North Coast Byway,California,ArcGIS,FeatureServer layer 1,195,1968,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2475
+2101,San Juan Skyway,Colorado,ArcGIS,FeatureServer layer 1,57,5027,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2101
+2020,Scenic Byway 12,Utah,ArcGIS,FeatureServer layer 1,8,2089,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2020
+2050,Selma to Montgomery March Byway,Alabama,ArcGIS,FeatureServer layer 1,38,1564,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2050
+10390,Seward Highway,Alaska,ArcGIS,FeatureServer layer 1,126,24841,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/10390
+2102,Trail Ridge Road/Beaver Meadow Road,Colorado,ArcGIS,FeatureServer layer 1,15,1458,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2102
+2587,Volcanic Legacy Scenic Byway,"California, Oregon",ArcGIS,FeatureServer layer 1,608,11447,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2587
+13754,Woodward Avenue (M-1) - Automotive Heritage Trail,Michigan,ArcGIS,FeatureServer layer 1,94,614,matched,https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13754

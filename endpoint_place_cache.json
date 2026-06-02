@@ -1,0 +1,2822 @@
+{
+  "24.55498,-81.80413": {
+    "full_place": "Old Town, Key West, Monroe County, Florida, 33041, United States",
+    "place_name": "Key West",
+    "version": "city-v2"
+  },
+  "25.23621,-80.43387": {
+    "full_place": "Miami-Dade County, Florida, United States",
+    "place_name": "Miami-Dade County",
+    "version": "city-v2"
+  },
+  "27.74854,-80.43557": {
+    "full_place": "Indian River County, Florida, United States",
+    "place_name": "Indian River County",
+    "version": "city-v2"
+  },
+  "28.64298,-80.77094": {
+    "full_place": "Brevard County, Florida, United States",
+    "place_name": "Brevard County",
+    "version": "city-v2"
+  },
+  "28.80264,-81.21033": {
+    "full_place": "Volusia County, Florida, United States",
+    "place_name": "Volusia County",
+    "version": "city-v2"
+  },
+  "28.84186,-81.32331": {
+    "full_place": "Valdez, DeBary, Volusia County, Florida, 32747, United States",
+    "place_name": "DeBary",
+    "version": "city-v2"
+  },
+  "29.00894,-81.38186": {
+    "full_place": "Daisy Lake, Volusia County, Florida, United States",
+    "place_name": "Daisy Lake",
+    "version": "city-v2"
+  },
+  "29.21887,-82.03349": {
+    "full_place": "Marion County, Florida, United States",
+    "place_name": "Marion County",
+    "version": "city-v2"
+  },
+  "29.21958,-89.39587": {
+    "full_place": "Plaquemines Parish, Louisiana, United States",
+    "place_name": "Plaquemines Parish",
+    "version": "city-v2"
+  },
+  "29.25698,-81.11590": {
+    "full_place": "Ormond Beach, Volusia County, Florida, United States",
+    "place_name": "Ormond Beach",
+    "version": "city-v2"
+  },
+  "29.26784,-81.33583": {
+    "full_place": "Flagler County, Florida, United States",
+    "place_name": "Flagler County",
+    "version": "city-v2"
+  },
+  "29.28318,-81.06187": {
+    "full_place": "Ormond Beach, Volusia County, Florida, United States",
+    "place_name": "Ormond Beach",
+    "version": "city-v2"
+  },
+  "29.32692,-81.05709": {
+    "full_place": "Volusia County, Florida, United States",
+    "place_name": "Volusia County",
+    "version": "city-v2"
+  },
+  "29.33708,-81.10710": {
+    "full_place": "Volusia County, Florida, United States",
+    "place_name": "Volusia County",
+    "version": "city-v2"
+  },
+  "29.34521,-81.09378": {
+    "full_place": "Volusia County, Florida, United States",
+    "place_name": "Volusia County",
+    "version": "city-v2"
+  },
+  "29.34671,-81.50101": {
+    "full_place": "Bakerstown, Volusia County, Florida, 32190, United States",
+    "place_name": "Bakerstown",
+    "version": "city-v2"
+  },
+  "29.36241,-89.56078": {
+    "full_place": "Sunrise, Plaquemines Parish, Louisiana, 70041, United States",
+    "place_name": "Sunrise",
+    "version": "city-v2"
+  },
+  "29.40760,-89.61300": {
+    "full_place": "Tropical Bend, Empire, Plaquemines Parish, Louisiana, 70050, United States",
+    "place_name": "Empire",
+    "version": "city-v2"
+  },
+  "29.42721,-81.10266": {
+    "full_place": "Flagler Beach, Flagler County, Florida, United States",
+    "place_name": "Flagler Beach",
+    "version": "city-v2"
+  },
+  "29.52463,-89.74835": {
+    "full_place": "Fosters Canal, Plaquemines Parish, Louisiana, 70083, United States",
+    "place_name": "Fosters Canal",
+    "version": "city-v2"
+  },
+  "29.55949,-91.52489": {
+    "full_place": "Burns, St. Mary Parish, Louisiana, United States",
+    "place_name": "Burns",
+    "version": "city-v2"
+  },
+  "29.56250,-89.79218": {
+    "full_place": "West Pointe à la Hache, Pointe à la Hache, Plaquemines Parish, Louisiana, 70082, United States",
+    "place_name": "Pointe à la Hache",
+    "version": "city-v2"
+  },
+  "29.64410,-81.20353": {
+    "full_place": "Flagler County, Florida, United States",
+    "place_name": "Flagler County",
+    "version": "city-v2"
+  },
+  "29.65393,-81.20704": {
+    "full_place": "Flagler County, Florida, United States",
+    "place_name": "Flagler County",
+    "version": "city-v2"
+  },
+  "29.67911,-91.28071": {
+    "full_place": "Lagonda, Bayou Vista, St. Mary Parish, Louisiana, 70392, United States",
+    "place_name": "Bayou Vista",
+    "version": "city-v2"
+  },
+  "29.68552,-91.29913": {
+    "full_place": "Patterson, St. Mary Parish, Louisiana, 70392, United States",
+    "place_name": "Patterson",
+    "version": "city-v2"
+  },
+  "29.68942,-92.61469": {
+    "full_place": "Cameron Parish, Louisiana, United States",
+    "place_name": "Cameron Parish",
+    "version": "city-v2"
+  },
+  "29.69384,-91.22156": {
+    "full_place": "Berwick, St. Mary Parish, Louisiana, United States",
+    "place_name": "Berwick",
+    "version": "city-v2"
+  },
+  "29.69675,-91.21091": {
+    "full_place": "Morgan City, St. Mary Parish, Louisiana, 70380, United States",
+    "place_name": "Morgan City",
+    "version": "city-v2"
+  },
+  "29.69773,-91.36920": {
+    "full_place": "Calumet, St. Mary Parish, Louisiana, United States",
+    "place_name": "Calumet",
+    "version": "city-v2"
+  },
+  "29.70698,-91.38312": {
+    "full_place": "Ricohoc, St. Mary Parish, Louisiana, 70522, United States",
+    "place_name": "Ricohoc",
+    "version": "city-v2"
+  },
+  "29.72562,-84.98297": {
+    "full_place": "Apalachicola, Franklin County, Florida, 32320, United States",
+    "place_name": "Apalachicola",
+    "version": "city-v2"
+  },
+  "29.76729,-93.89386": {
+    "full_place": "Cameron Parish, Louisiana, United States",
+    "place_name": "Cameron Parish",
+    "version": "city-v2"
+  },
+  "29.77244,-93.45980": {
+    "full_place": "Holly Beach, Cameron Parish, Louisiana, United States",
+    "place_name": "Holly Beach",
+    "version": "city-v2"
+  },
+  "29.77957,-91.49438": {
+    "full_place": "Franklin, St. Mary Parish, Louisiana, United States",
+    "place_name": "Franklin",
+    "version": "city-v2"
+  },
+  "29.78882,-93.23259": {
+    "full_place": "Cameron Parish, Louisiana, United States",
+    "place_name": "Cameron Parish",
+    "version": "city-v2"
+  },
+  "29.78959,-91.71486": {
+    "full_place": "Florence, St. Mary Parish, Louisiana, United States",
+    "place_name": "Florence",
+    "version": "city-v2"
+  },
+  "29.80172,-91.50049": {
+    "full_place": "Franklin, St. Mary Parish, Louisiana, United States",
+    "place_name": "Franklin",
+    "version": "city-v2"
+  },
+  "29.81605,-93.11108": {
+    "full_place": "Creole, Cameron Parish, Louisiana, 70632, United States",
+    "place_name": "Creole",
+    "version": "city-v2"
+  },
+  "29.83023,-91.54390": {
+    "full_place": "Baldwin, St. Mary Parish, Louisiana, 70514, United States",
+    "place_name": "Baldwin",
+    "version": "city-v2"
+  },
+  "29.83396,-91.65872": {
+    "full_place": "Home Place, St. Mary Parish, Louisiana, United States",
+    "place_name": "Home Place",
+    "version": "city-v2"
+  },
+  "29.84040,-91.45549": {
+    "full_place": "Oaklawn, St. Mary Parish, Louisiana, United States",
+    "place_name": "Oaklawn",
+    "version": "city-v2"
+  },
+  "29.84779,-89.97645": {
+    "full_place": "Scarsdale, Belle Chasse, Plaquemines Parish, Louisiana, 70037, United States",
+    "place_name": "Belle Chasse",
+    "version": "city-v2"
+  },
+  "29.85705,-89.98613": {
+    "full_place": "Scarsdale, Belle Chasse, Plaquemines Parish, Louisiana, 70037, United States",
+    "place_name": "Belle Chasse",
+    "version": "city-v2"
+  },
+  "29.89099,-81.32465": {
+    "full_place": "West Augustine, Saint Augustine, Saint Johns County, Florida, 32084, United States",
+    "place_name": "Saint Augustine",
+    "version": "city-v2"
+  },
+  "29.89176,-91.61890": {
+    "full_place": "Sorrel, St. Mary Parish, Louisiana, 70544, United States",
+    "place_name": "Sorrel",
+    "version": "city-v2"
+  },
+  "29.89801,-91.20951": {
+    "full_place": "Saint Martin Parish, Louisiana, United States",
+    "place_name": "Saint Martin Parish",
+    "version": "city-v2"
+  },
+  "29.90899,-91.21599": {
+    "full_place": "Saint Martin Parish, Louisiana, United States",
+    "place_name": "Saint Martin Parish",
+    "version": "city-v2"
+  },
+  "29.90937,-90.05624": {
+    "full_place": "McDonoghville, Gretna, Jefferson Parish, Louisiana, 70053, United States",
+    "place_name": "Gretna",
+    "version": "city-v2"
+  },
+  "29.90948,-81.32036": {
+    "full_place": "Uptown, Saint Augustine, Saint Johns County, Florida, 32084, United States",
+    "place_name": "Saint Augustine",
+    "version": "city-v2"
+  },
+  "29.94303,-90.07115": {
+    "full_place": "Lower Garden District, Garden District, New Orleans, Orleans Parish, Louisiana, 70103, United States",
+    "place_name": "New Orleans",
+    "version": "city-v2"
+  },
+  "29.98558,-91.84112": {
+    "full_place": "Brannon, New Iberia, Iberia Parish, Louisiana, 70560, United States",
+    "place_name": "New Iberia",
+    "version": "city-v2"
+  },
+  "30.22718,-88.02344": {
+    "full_place": "Fort Morgan, Baldwin County, Alabama, United States",
+    "place_name": "Fort Morgan",
+    "version": "city-v2"
+  },
+  "30.23632,-93.37735": {
+    "full_place": "Sulphur, Calcasieu Parish, Louisiana, 70663, United States",
+    "place_name": "Sulphur",
+    "version": "city-v2"
+  },
+  "30.25168,-87.66515": {
+    "full_place": "Gulf Shores, Baldwin County, Alabama, 36542, United States",
+    "place_name": "Gulf Shores",
+    "version": "city-v2"
+  },
+  "30.25410,-88.11250": {
+    "full_place": "Mobile County Commission District 3, Mobile County, Alabama, United States",
+    "place_name": "Mobile County",
+    "version": "city-v2"
+  },
+  "30.25601,-81.38834": {
+    "full_place": "Jacksonville Beach, Duval County, Florida, 32250, United States",
+    "place_name": "Jacksonville Beach",
+    "version": "city-v2"
+  },
+  "30.27934,-86.00959": {
+    "full_place": "Rosemary Beach, Walton County, Florida, 32461, United States",
+    "place_name": "Rosemary Beach",
+    "version": "city-v2"
+  },
+  "30.30573,-87.52080": {
+    "full_place": "Orange Beach, Baldwin County, Alabama, United States",
+    "place_name": "Orange Beach",
+    "version": "city-v2"
+  },
+  "30.34705,-86.22986": {
+    "full_place": "Dune Allen Beach, Santa Rosa Beach, Walton County, Florida, 32459, United States",
+    "place_name": "Santa Rosa Beach",
+    "version": "city-v2"
+  },
+  "30.37728,-88.15966": {
+    "full_place": "Mobile County Commission District 3, Mobile County, Alabama, United States",
+    "place_name": "Mobile County",
+    "version": "city-v2"
+  },
+  "30.43528,-84.35302": {
+    "full_place": "Leon County, Florida, United States",
+    "place_name": "Leon County",
+    "version": "city-v2"
+  },
+  "30.46248,-88.16885": {
+    "full_place": "South Orchard, Mobile County Commission District 3, Mobile County, Alabama, United States",
+    "place_name": "South Orchard",
+    "version": "city-v2"
+  },
+  "30.49648,-88.33548": {
+    "full_place": "Grand Bay, Mobile County, Alabama, 36541, United States",
+    "place_name": "Grand Bay",
+    "version": "city-v2"
+  },
+  "30.54678,-91.96764": {
+    "full_place": "Port Barre, St. Landry Parish, Louisiana, United States",
+    "place_name": "Port Barre",
+    "version": "city-v2"
+  },
+  "30.65459,-87.91209": {
+    "full_place": "Park City, Daphne, Baldwin County, Alabama, 36526, United States",
+    "place_name": "Daphne",
+    "version": "city-v2"
+  },
+  "30.99908,-91.34819": {
+    "full_place": "West Feliciana Parish, Louisiana, United States",
+    "place_name": "West Feliciana Parish",
+    "version": "city-v2"
+  },
+  "31.54598,-91.36941": {
+    "full_place": "Saint Catherine, Natchez, Adams County, Mississippi, 39120, United States",
+    "place_name": "Natchez",
+    "version": "city-v2"
+  },
+  "31.79543,-106.55827": {
+    "full_place": "Sunland Park, Doña Ana County, New Mexico, 88063, United States",
+    "place_name": "Sunland Park",
+    "version": "city-v2"
+  },
+  "31.82921,-91.04617": {
+    "full_place": "Clifton, Jefferson County, Mississippi, 39096, United States",
+    "place_name": "Clifton",
+    "version": "city-v2"
+  },
+  "32.30402,-110.74524": {
+    "full_place": "Pima County, Arizona, United States",
+    "place_name": "Pima County",
+    "version": "city-v2"
+  },
+  "32.37768,-86.30130": {
+    "full_place": "Clisby Park, Montgomery, Montgomery County, Alabama, 36131, United States",
+    "place_name": "Montgomery",
+    "version": "city-v2"
+  },
+  "32.41189,-87.02228": {
+    "full_place": "Sunset Mill Village, Selma, Dallas County, Alabama, 36701, United States",
+    "place_name": "Selma",
+    "version": "city-v2"
+  },
+  "32.43563,-110.75812": {
+    "full_place": "Summerhaven, Pima County, Arizona, 85619, United States",
+    "place_name": "Summerhaven",
+    "version": "city-v2"
+  },
+  "32.50498,-80.29741": {
+    "full_place": "Edisto Beach, Colleton County, South Carolina, United States",
+    "place_name": "Edisto Beach",
+    "version": "city-v2"
+  },
+  "32.63795,-80.34013": {
+    "full_place": "Charleston County, South Carolina, United States",
+    "place_name": "Charleston County",
+    "version": "city-v2"
+  },
+  "32.79737,-92.87782": {
+    "full_place": "Lisbon, Claiborne Parish, Louisiana, 71048, United States",
+    "place_name": "Lisbon",
+    "version": "city-v2"
+  },
+  "32.79892,-107.93270": {
+    "full_place": "San Lorenzo, Grant County, New Mexico, 88049, United States",
+    "place_name": "San Lorenzo",
+    "version": "city-v2"
+  },
+  "32.82249,-80.03697": {
+    "full_place": "Pierpont, Charleston County, South Carolina, 29414, United States",
+    "place_name": "Pierpont",
+    "version": "city-v2"
+  },
+  "32.88600,-94.04306": {
+    "full_place": "Solley Hill, Caddo Parish, Louisiana, United States",
+    "place_name": "Solley Hill",
+    "version": "city-v2"
+  },
+  "32.94823,-80.20547": {
+    "full_place": "Cooke Crossroads, Dorchester County, South Carolina, 29485, United States",
+    "place_name": "Cooke Crossroads",
+    "version": "city-v2"
+  },
+  "33.05222,-109.32524": {
+    "full_place": "East Plantsite, Clifton, Greenlee County, Arizona, 85540, United States",
+    "place_name": "Clifton",
+    "version": "city-v2"
+  },
+  "33.15021,-107.18964": {
+    "full_place": "Sierra County, New Mexico, United States",
+    "place_name": "Sierra County",
+    "version": "city-v2"
+  },
+  "33.22963,-108.26512": {
+    "full_place": "Catron County, New Mexico, United States",
+    "place_name": "Catron County",
+    "version": "city-v2"
+  },
+  "33.33390,-105.68131": {
+    "full_place": "Ponderosa Heights, Ruidoso, Lincoln County, New Mexico, 88355, United States",
+    "place_name": "Ruidoso",
+    "version": "city-v2"
+  },
+  "33.36828,-85.86756": {
+    "full_place": "Campbell Springs, Clay County, Alabama, United States",
+    "place_name": "Campbell Springs",
+    "version": "city-v2"
+  },
+  "33.39092,-105.27325": {
+    "full_place": "Hondo, Lincoln County, New Mexico, 88336, United States",
+    "place_name": "Hondo",
+    "version": "city-v2"
+  },
+  "33.42355,-108.10951": {
+    "full_place": "Beaverhead, Catron County, New Mexico, United States",
+    "place_name": "Beaverhead",
+    "version": "city-v2"
+  },
+  "33.59273,-82.12319": {
+    "full_place": "Evans, Columbia County, Georgia, 30907, United States",
+    "place_name": "Evans",
+    "version": "city-v2"
+  },
+  "33.61072,-91.38324": {
+    "full_place": "McGehee, Desha County, Arkansas, 71654, United States",
+    "place_name": "McGehee",
+    "version": "city-v2"
+  },
+  "33.64594,-85.63039": {
+    "full_place": "Cleburne, Cleburne County, Alabama, United States",
+    "place_name": "Cleburne",
+    "version": "city-v2"
+  },
+  "33.93244,-91.39454": {
+    "full_place": "Back Gate, Desha County, Arkansas, United States",
+    "place_name": "Back Gate",
+    "version": "city-v2"
+  },
+  "34.07894,-106.89452": {
+    "full_place": "Florida, Socorro, Socorro County, New Mexico, 87801, United States",
+    "place_name": "Socorro",
+    "version": "city-v2"
+  },
+  "34.08186,-118.22368": {
+    "full_place": "Cypress Park, Los Angeles, Los Angeles County, California, 90065, United States",
+    "place_name": "Los Angeles",
+    "version": "city-v2"
+  },
+  "34.09269,-106.89807": {
+    "full_place": "Florida, Socorro, Socorro County, New Mexico, 87801, United States",
+    "place_name": "Socorro",
+    "version": "city-v2"
+  },
+  "34.13363,-109.28572": {
+    "full_place": "Springerville, Apache County, Arizona, United States",
+    "place_name": "Springerville",
+    "version": "city-v2"
+  },
+  "34.15154,-118.14671": {
+    "full_place": "Old Pasadena, Pasadena Council District 3, Pasadena, Los Angeles County, California, 91124, United States",
+    "place_name": "Pasadena",
+    "version": "city-v2"
+  },
+  "34.30523,-106.88962": {
+    "full_place": "Socorro County, New Mexico, United States",
+    "place_name": "Socorro County",
+    "version": "city-v2"
+  },
+  "34.51013,-83.04353": {
+    "full_place": "Fairplay Shores, Oconee County, South Carolina, 29643, United States",
+    "place_name": "Fairplay Shores",
+    "version": "city-v2"
+  },
+  "34.58259,-94.23507": {
+    "full_place": "Mena, Polk County, Arkansas, 72953, United States",
+    "place_name": "Mena",
+    "version": "city-v2"
+  },
+  "34.59825,-90.60983": {
+    "full_place": "Phillips County, Arkansas, United States",
+    "place_name": "Phillips County",
+    "version": "city-v2"
+  },
+  "34.60090,-106.73536": {
+    "full_place": "Madrone, Valencia County, New Mexico, 87023, United States",
+    "place_name": "Madrone",
+    "version": "city-v2"
+  },
+  "34.61907,-83.04641": {
+    "full_place": "Retreat, Oconee County, South Carolina, 29693, United States",
+    "place_name": "Retreat",
+    "version": "city-v2"
+  },
+  "34.68442,-76.52622": {
+    "full_place": "Harkers Island, Carteret County, North Carolina, 28531, United States",
+    "place_name": "Harkers Island",
+    "version": "city-v2"
+  },
+  "34.69070,-111.74537": {
+    "full_place": "Yavapai County, Arizona, United States",
+    "place_name": "Yavapai County",
+    "version": "city-v2"
+  },
+  "34.69365,-83.77054": {
+    "full_place": "White County, Georgia, United States",
+    "place_name": "White County",
+    "version": "city-v2"
+  },
+  "34.71121,-98.39734": {
+    "full_place": "Comanche County, Oklahoma, United States",
+    "place_name": "Comanche County",
+    "version": "city-v2"
+  },
+  "34.71731,-114.48783": {
+    "full_place": "San Bernardino County, California, United States",
+    "place_name": "San Bernardino County",
+    "version": "city-v2"
+  },
+  "34.72461,-98.46356": {
+    "full_place": "Medicine Park, Comanche County, Oklahoma, 73557, United States",
+    "place_name": "Medicine Park",
+    "version": "city-v2"
+  },
+  "34.79707,-94.95441": {
+    "full_place": "LeFlore County, Oklahoma, United States",
+    "place_name": "LeFlore County",
+    "version": "city-v2"
+  },
+  "34.86595,-111.76335": {
+    "full_place": "Uptown Sedona, Sedona, Coconino County, Arizona, 86446, United States",
+    "place_name": "Sedona",
+    "version": "city-v2"
+  },
+  "34.87148,-83.81156": {
+    "full_place": "Towns County, Georgia, United States",
+    "place_name": "Towns County",
+    "version": "city-v2"
+  },
+  "34.89769,-98.55066": {
+    "full_place": "Caddo County, Oklahoma, United States",
+    "place_name": "Caddo County",
+    "version": "city-v2"
+  },
+  "34.99468,-90.12751": {
+    "full_place": "Memphis, Shelby County, West Tennessee, Tennessee, United States",
+    "place_name": "Memphis",
+    "version": "city-v2"
+  },
+  "35.00000,-90.11714": {
+    "full_place": "Memphis, Shelby County, West Tennessee, Tennessee, United States",
+    "place_name": "Memphis",
+    "version": "city-v2"
+  },
+  "35.01723,-76.31582": {
+    "full_place": "Cedar Island, Carteret County, North Carolina, 28520, United States",
+    "place_name": "Cedar Island",
+    "version": "city-v2"
+  },
+  "35.07401,-85.62610": {
+    "full_place": "Jasper, Marion County, East Tennessee, Tennessee, 37347, United States",
+    "place_name": "Jasper",
+    "version": "city-v2"
+  },
+  "35.08543,-106.38066": {
+    "full_place": "Canyon Estates, Tijeras, Bernalillo County, New Mexico, 87059, United States",
+    "place_name": "Tijeras",
+    "version": "city-v2"
+  },
+  "35.09447,-98.72636": {
+    "full_place": "Kiowa County, Oklahoma, United States",
+    "place_name": "Kiowa County",
+    "version": "city-v2"
+  },
+  "35.09699,-81.66823": {
+    "full_place": "Pleasant Meadows, Gaffney, Cherokee County, South Carolina, 29342, United States",
+    "place_name": "Gaffney",
+    "version": "city-v2"
+  },
+  "35.10824,-75.97548": {
+    "full_place": "Ocracoke, Hyde County, North Carolina, 27960, United States",
+    "place_name": "Ocracoke",
+    "version": "city-v2"
+  },
+  "35.13272,-90.05463": {
+    "full_place": "Foote Homes, Memphis, Shelby County, West Tennessee, Tennessee, 38126, United States",
+    "place_name": "Memphis",
+    "version": "city-v2"
+  },
+  "35.17858,-103.04394": {
+    "full_place": "Quay County, New Mexico, United States",
+    "place_name": "Quay County",
+    "version": "city-v2"
+  },
+  "35.20949,-90.03266": {
+    "full_place": "Frayser, Memphis, Shelby County, West Tennessee, Tennessee, 38127, United States",
+    "place_name": "Memphis",
+    "version": "city-v2"
+  },
+  "35.22304,-100.00213": {
+    "full_place": "Benonine, Wheeler County, Texas, 73668, United States",
+    "place_name": "Benonine",
+    "version": "city-v2"
+  },
+  "35.27400,-82.70440": {
+    "full_place": "Pisgah Forest, Brevard, Transylvania County, North Carolina, 28768, United States",
+    "place_name": "Brevard",
+    "version": "city-v2"
+  },
+  "35.28996,-120.66642": {
+    "full_place": "San Luis Obispo, San Luis Obispo County, California, United States",
+    "place_name": "San Luis Obispo",
+    "version": "city-v2"
+  },
+  "35.34553,-83.89410": {
+    "full_place": "Graham County, North Carolina, United States",
+    "place_name": "Graham County",
+    "version": "city-v2"
+  },
+  "35.36317,-84.28339": {
+    "full_place": "Tellico Plains, Monroe County, East Tennessee, Tennessee, United States",
+    "place_name": "Tellico Plains",
+    "version": "city-v2"
+  },
+  "35.36666,-82.81727": {
+    "full_place": "Big East Fork, Haywood County, North Carolina, United States",
+    "place_name": "Big East Fork",
+    "version": "city-v2"
+  },
+  "35.43030,-105.59870": {
+    "full_place": "San Miguel County, New Mexico, United States",
+    "place_name": "San Miguel County",
+    "version": "city-v2"
+  },
+  "35.49065,-95.07933": {
+    "full_place": "Sequoyah County, Oklahoma, United States",
+    "place_name": "Sequoyah County",
+    "version": "city-v2"
+  },
+  "35.50514,-83.30129": {
+    "full_place": "Ravensford, Cherokee;ᏣᎳᎩ, Yellowhill Community ᎡᎳᏬᏗ, Swain County, North Carolina, 28719, United States",
+    "place_name": "Cherokee;ᏣᎳᎩ",
+    "version": "city-v2"
+  },
+  "35.51330,-83.30687": {
+    "full_place": "Ravensford, Cherokee;ᏣᎳᎩ, Yellowhill Community ᎡᎳᏬᏗ, Swain County, North Carolina, 28719, United States",
+    "place_name": "Cherokee;ᏣᎳᎩ",
+    "version": "city-v2"
+  },
+  "35.58299,-105.76772": {
+    "full_place": "Santa Fe County, New Mexico, United States",
+    "place_name": "Santa Fe County",
+    "version": "city-v2"
+  },
+  "35.59824,-105.90794": {
+    "full_place": "Santa Fe County, New Mexico, United States",
+    "place_name": "Santa Fe County",
+    "version": "city-v2"
+  },
+  "35.60496,-106.03480": {
+    "full_place": "Santa Fe, Santa Fe County, New Mexico, United States",
+    "place_name": "Santa Fe",
+    "version": "city-v2"
+  },
+  "35.63405,-106.05776": {
+    "full_place": "Santa Fe, Santa Fe County, New Mexico, United States",
+    "place_name": "Santa Fe",
+    "version": "city-v2"
+  },
+  "35.68270,-105.93787": {
+    "full_place": "Santa Fe, Santa Fe County, New Mexico, United States",
+    "place_name": "Santa Fe",
+    "version": "city-v2"
+  },
+  "35.68660,-83.50145": {
+    "full_place": "Twin Creeks, Sevier County, East Tennessee, Tennessee, 37738, United States",
+    "place_name": "Twin Creeks",
+    "version": "city-v2"
+  },
+  "35.80360,-121.35151": {
+    "full_place": "Monterey County, California, United States",
+    "place_name": "Monterey County",
+    "version": "city-v2"
+  },
+  "35.83261,-104.96032": {
+    "full_place": "Mora County, New Mexico, United States",
+    "place_name": "Mora County",
+    "version": "city-v2"
+  },
+  "35.83408,-106.35968": {
+    "full_place": "Upper Frijoles Crossing, Los Alamos County, New Mexico, United States",
+    "place_name": "Upper Frijoles Crossing",
+    "version": "city-v2"
+  },
+  "35.90110,-105.25183": {
+    "full_place": "Buena Vista, Mora County, New Mexico, 87712, United States",
+    "place_name": "Buena Vista",
+    "version": "city-v2"
+  },
+  "35.90643,-75.59865": {
+    "full_place": "Nags Head, Dare County, North Carolina, United States",
+    "place_name": "Nags Head",
+    "version": "city-v2"
+  },
+  "35.91788,-82.91243": {
+    "full_place": "Lanceville, Cocke County, East Tennessee, Tennessee, United States",
+    "place_name": "Lanceville",
+    "version": "city-v2"
+  },
+  "35.94891,-85.02687": {
+    "full_place": "Lynwood Acres, Crossville, Cumberland County, East Tennessee, Tennessee, 37855, United States",
+    "place_name": "Crossville",
+    "version": "city-v2"
+  },
+  "35.96708,-106.99071": {
+    "full_place": "Sandoval County, New Mexico, United States",
+    "place_name": "Sandoval County",
+    "version": "city-v2"
+  },
+  "35.99953,-89.89821": {
+    "full_place": "Pemiscot County, Missouri, United States",
+    "place_name": "Pemiscot County",
+    "version": "city-v2"
+  },
+  "36.00625,-83.93356": {
+    "full_place": "North Knoxville, Knoxville, Knox County, East Tennessee, Tennessee, 37917, United States",
+    "place_name": "Knoxville",
+    "version": "city-v2"
+  },
+  "36.03461,-86.97582": {
+    "full_place": "Pasquo, Nashville, Davidson County, Middle Tennessee, Tennessee, 37221, United States",
+    "place_name": "Nashville",
+    "version": "city-v2"
+  },
+  "36.08616,-115.17304": {
+    "full_place": "Paradise, Clark County, Nevada, 89154, United States",
+    "place_name": "Paradise",
+    "version": "city-v2"
+  },
+  "36.14353,-115.15740": {
+    "full_place": "Filipino Town, Winchester, Clark County, Nevada, 89169, United States",
+    "place_name": "Winchester",
+    "version": "city-v2"
+  },
+  "36.17634,-94.56531": {
+    "full_place": "West Siloam Springs, Delaware County, Oklahoma, 74338, United States",
+    "place_name": "West Siloam Springs",
+    "version": "city-v2"
+  },
+  "36.21789,-84.15462": {
+    "full_place": "Rocky Top, Anderson County, East Tennessee, Tennessee, 37769, United States",
+    "place_name": "Rocky Top",
+    "version": "city-v2"
+  },
+  "36.22812,-112.05937": {
+    "full_place": "Coconino County, Arizona, United States",
+    "place_name": "Coconino County",
+    "version": "city-v2"
+  },
+  "36.30484,-103.80823": {
+    "full_place": "Union County, New Mexico, United States",
+    "place_name": "Union County",
+    "version": "city-v2"
+  },
+  "36.31281,-81.36278": {
+    "full_place": "Ashe County, North Carolina, United States",
+    "place_name": "Ashe County",
+    "version": "city-v2"
+  },
+  "36.34405,-116.61029": {
+    "full_place": "Inyo County, California, United States",
+    "place_name": "Inyo County",
+    "version": "city-v2"
+  },
+  "36.34408,-81.37517": {
+    "full_place": "Glendale Springs, Ashe County, North Carolina, 28629, United States",
+    "place_name": "Glendale Springs",
+    "version": "city-v2"
+  },
+  "36.35772,-81.37293": {
+    "full_place": "Glendale Springs, Ashe County, North Carolina, 28629, United States",
+    "place_name": "Glendale Springs",
+    "version": "city-v2"
+  },
+  "36.35854,-117.63482": {
+    "full_place": "Inyo County, California, United States",
+    "place_name": "Inyo County",
+    "version": "city-v2"
+  },
+  "36.50905,-87.91539": {
+    "full_place": "Stewart County, Middle Tennessee, Tennessee, United States",
+    "place_name": "Stewart County",
+    "version": "city-v2"
+  },
+  "36.51309,-104.90535": {
+    "full_place": "Cimarron, Colfax County, New Mexico, United States",
+    "place_name": "Cimarron",
+    "version": "city-v2"
+  },
+  "36.56383,-89.97074": {
+    "full_place": "Spoonerville, Malden, Dunklin County, Missouri, 63863, United States",
+    "place_name": "Malden",
+    "version": "city-v2"
+  },
+  "36.56742,-121.91288": {
+    "full_place": "Del Monte Forest, Monterey County, California, 93953, United States",
+    "place_name": "Del Monte Forest",
+    "version": "city-v2"
+  },
+  "36.59809,-83.67605": {
+    "full_place": "Bell County, Kentucky, United States",
+    "place_name": "Bell County",
+    "version": "city-v2"
+  },
+  "36.70256,-103.07028": {
+    "full_place": "McNees Crossing, Union County, New Mexico, United States",
+    "place_name": "McNees Crossing",
+    "version": "city-v2"
+  },
+  "36.71371,-112.21535": {
+    "full_place": "Coconino County, Arizona, United States",
+    "place_name": "Coconino County",
+    "version": "city-v2"
+  },
+  "36.75850,-104.49753": {
+    "full_place": "Colfax County, New Mexico, United States",
+    "place_name": "Colfax County",
+    "version": "city-v2"
+  },
+  "36.94724,-84.78502": {
+    "full_place": "Mill Springs, Wayne County, Kentucky, United States",
+    "place_name": "Mill Springs",
+    "version": "city-v2"
+  },
+  "36.98016,-104.48201": {
+    "full_place": "Colfax County, New Mexico, United States",
+    "place_name": "Colfax County",
+    "version": "city-v2"
+  },
+  "36.99157,-88.22267": {
+    "full_place": "Lyon County, Kentucky, United States",
+    "place_name": "Lyon County",
+    "version": "city-v2"
+  },
+  "36.99833,-110.17570": {
+    "full_place": "Oljato-Monument Valley, Navajo County, Arizona, 84536, United States",
+    "place_name": "Oljato-Monument Valley",
+    "version": "city-v2"
+  },
+  "36.99858,-94.74070": {
+    "full_place": "Ottawa County, Oklahoma, United States",
+    "place_name": "Ottawa County",
+    "version": "city-v2"
+  },
+  "37.03840,-89.18805": {
+    "full_place": "Cairo Junction, Cairo, Alexander County, Illinois, 62914, United States",
+    "place_name": "Cairo",
+    "version": "city-v2"
+  },
+  "37.11112,-82.80304": {
+    "full_place": "Whitesburg, Letcher County, Kentucky, United States",
+    "place_name": "Whitesburg",
+    "version": "city-v2"
+  },
+  "37.16624,-113.44996": {
+    "full_place": "Coral Canyon, Washington, Washington County, Utah, United States",
+    "place_name": "Washington",
+    "version": "city-v2"
+  },
+  "37.16983,-104.51134": {
+    "full_place": "Trinidad, Las Animas County, Colorado, 81082, United States",
+    "place_name": "Trinidad",
+    "version": "city-v2"
+  },
+  "37.17089,-104.49899": {
+    "full_place": "Trinidad, Las Animas County, Colorado, 81082, United States",
+    "place_name": "Trinidad",
+    "version": "city-v2"
+  },
+  "37.22346,-112.68094": {
+    "full_place": "Orderville, Kane County, Utah, United States",
+    "place_name": "Orderville",
+    "version": "city-v2"
+  },
+  "37.22397,-76.78277": {
+    "full_place": "James City County, Virginia, United States",
+    "place_name": "James City County",
+    "version": "city-v2"
+  },
+  "37.23012,-76.50741": {
+    "full_place": "Yorktown, York County, Virginia, 23690, United States",
+    "place_name": "Yorktown",
+    "version": "city-v2"
+  },
+  "37.26292,-81.23771": {
+    "full_place": "Bluefield, Mercer County, West Virginia, 24701, United States",
+    "place_name": "Bluefield",
+    "version": "city-v2"
+  },
+  "37.34478,-108.41471": {
+    "full_place": "Montezuma County, Colorado, United States",
+    "place_name": "Montezuma County",
+    "version": "city-v2"
+  },
+  "37.35321,-108.55292": {
+    "full_place": "Cortez, Montezuma County, Colorado, 81321, United States",
+    "place_name": "Cortez",
+    "version": "city-v2"
+  },
+  "37.47153,-84.82182": {
+    "full_place": "Hustonville, Lincoln County, Kentucky, United States",
+    "place_name": "Hustonville",
+    "version": "city-v2"
+  },
+  "37.50909,-105.00902": {
+    "full_place": "La Veta, Huerfano County, Colorado, United States",
+    "place_name": "La Veta",
+    "version": "city-v2"
+  },
+  "37.52919,-85.73321": {
+    "full_place": "Larue County, Kentucky, United States",
+    "place_name": "Larue County",
+    "version": "city-v2"
+  },
+  "37.56812,-84.30600": {
+    "full_place": "Berea, Madison County, Kentucky, United States",
+    "place_name": "Berea",
+    "version": "city-v2"
+  },
+  "37.64592,-84.77404": {
+    "full_place": "Baughman Heights, Danville, Boyle County, Kentucky, 40422, United States",
+    "place_name": "Danville",
+    "version": "city-v2"
+  },
+  "37.66913,-106.64073": {
+    "full_place": "Baxterville, South Fork, Rio Grande County, Colorado, 81154, United States",
+    "place_name": "South Fork",
+    "version": "city-v2"
+  },
+  "37.70627,-83.67627": {
+    "full_place": "Torrent, Wolfe County, Kentucky, 41365, United States",
+    "place_name": "Torrent",
+    "version": "city-v2"
+  },
+  "37.74959,-112.37617": {
+    "full_place": "Garfield County, Utah, United States",
+    "place_name": "Garfield County",
+    "version": "city-v2"
+  },
+  "37.79597,-80.29810": {
+    "full_place": "White Sulphur Springs, Greenbrier County, West Virginia, 24986, United States",
+    "place_name": "White Sulphur Springs",
+    "version": "city-v2"
+  },
+  "37.80376,-119.87205": {
+    "full_place": "Tuolumne County, California, United States",
+    "place_name": "Tuolumne County",
+    "version": "city-v2"
+  },
+  "37.81011,-79.68041": {
+    "full_place": "Longdale Furnace, Alleghany County, Virginia, United States",
+    "place_name": "Longdale Furnace",
+    "version": "city-v2"
+  },
+  "37.81430,-112.43544": {
+    "full_place": "Panguitch, Garfield County, Utah, 84759, United States",
+    "place_name": "Panguitch",
+    "version": "city-v2"
+  },
+  "37.83932,-112.86916": {
+    "full_place": "Iron County, Utah, United States",
+    "place_name": "Iron County",
+    "version": "city-v2"
+  },
+  "37.84571,-83.85840": {
+    "full_place": "Stanton, Powell County, Kentucky, United States",
+    "place_name": "Stanton",
+    "version": "city-v2"
+  },
+  "37.85211,-103.72972": {
+    "full_place": "Otero County, Colorado, United States",
+    "place_name": "Otero County",
+    "version": "city-v2"
+  },
+  "37.88934,-81.17480": {
+    "full_place": "Kilsyth, Fayette County, West Virginia, 25880, United States",
+    "place_name": "Kilsyth",
+    "version": "city-v2"
+  },
+  "37.89340,-79.59086": {
+    "full_place": "California, Rockbridge County, Virginia, United States",
+    "place_name": "California",
+    "version": "city-v2"
+  },
+  "37.89342,-81.16115": {
+    "full_place": "Macdonald, Mount Hope, Fayette County, West Virginia, 25880, United States",
+    "place_name": "Mount Hope",
+    "version": "city-v2"
+  },
+  "37.91176,-119.25784": {
+    "full_place": "Mono County, California, United States",
+    "place_name": "Mono County",
+    "version": "city-v2"
+  },
+  "37.97014,-78.40619": {
+    "full_place": "Albemarle County, Virginia, United States",
+    "place_name": "Albemarle County",
+    "version": "city-v2"
+  },
+  "37.98799,-103.53796": {
+    "full_place": "La Junta, Otero County, Colorado, 81050, United States",
+    "place_name": "La Junta",
+    "version": "city-v2"
+  },
+  "38.03140,-78.85771": {
+    "full_place": "Afton, Nelson County, Virginia, 22920, United States",
+    "place_name": "Afton",
+    "version": "city-v2"
+  },
+  "38.03246,-78.85890": {
+    "full_place": "Augusta County, Virginia, United States",
+    "place_name": "Augusta County",
+    "version": "city-v2"
+  },
+  "38.04017,-76.32212": {
+    "full_place": "Saint Mary's County, Maryland, United States",
+    "place_name": "Saint Mary's County",
+    "version": "city-v2"
+  },
+  "38.04271,-96.63919": {
+    "full_place": "Cassoday, Butler County, Kansas, United States",
+    "place_name": "Cassoday",
+    "version": "city-v2"
+  },
+  "38.04805,-102.04453": {
+    "full_place": "Prowers County, Colorado, United States",
+    "place_name": "Prowers County",
+    "version": "city-v2"
+  },
+  "38.05054,-84.50488": {
+    "full_place": "Lexington, Fayette County, Kentucky, United States",
+    "place_name": "Lexington",
+    "version": "city-v2"
+  },
+  "38.05762,-98.74756": {
+    "full_place": "Stafford County, Kansas, United States",
+    "place_name": "Stafford County",
+    "version": "city-v2"
+  },
+  "38.10931,-76.40611": {
+    "full_place": "Wynne, Saint Mary's County, Maryland, 40684, United States",
+    "place_name": "Wynne",
+    "version": "city-v2"
+  },
+  "38.11452,-102.76012": {
+    "full_place": "Bent County, Colorado, United States",
+    "place_name": "Bent County",
+    "version": "city-v2"
+  },
+  "38.11628,-81.00489": {
+    "full_place": "Hico, Fayette County, West Virginia, 25854, United States",
+    "place_name": "Hico",
+    "version": "city-v2"
+  },
+  "38.11909,-76.37283": {
+    "full_place": "Ridge, Saint Mary's County, Maryland, 20680, United States",
+    "place_name": "Ridge",
+    "version": "city-v2"
+  },
+  "38.11966,-76.48113": {
+    "full_place": "Saint George Island, Saint Mary's County, Maryland, 20674, United States",
+    "place_name": "Saint George Island",
+    "version": "city-v2"
+  },
+  "38.13595,-105.46380": {
+    "full_place": "Westcliffe, Custer County, Colorado, United States",
+    "place_name": "Westcliffe",
+    "version": "city-v2"
+  },
+  "38.15171,-107.74855": {
+    "full_place": "Ridgway, Ouray County, Colorado, 81432, United States",
+    "place_name": "Ridgway",
+    "version": "city-v2"
+  },
+  "38.16473,-84.80784": {
+    "full_place": "Jett, Franklin County, Kentucky, 40601, United States",
+    "place_name": "Jett",
+    "version": "city-v2"
+  },
+  "38.22364,-76.75296": {
+    "full_place": "Coltons Point, Saint Mary's County, Maryland, 20626, United States",
+    "place_name": "Coltons Point",
+    "version": "city-v2"
+  },
+  "38.22525,-80.53282": {
+    "full_place": "Richwood, Nicholas County, West Virginia, United States",
+    "place_name": "Richwood",
+    "version": "city-v2"
+  },
+  "38.23797,-76.52254": {
+    "full_place": "Callaway, Saint Mary's County, Maryland, 20620, United States",
+    "place_name": "Callaway",
+    "version": "city-v2"
+  },
+  "38.23937,-76.71879": {
+    "full_place": "Bluff Woods, Saint Mary's County, Maryland, 20606, United States",
+    "place_name": "Bluff Woods",
+    "version": "city-v2"
+  },
+  "38.25598,-120.34987": {
+    "full_place": "Lilac Park, Arnold, Calaveras County, California, 95223, United States",
+    "place_name": "Arnold",
+    "version": "city-v2"
+  },
+  "38.25856,-76.84876": {
+    "full_place": "Rock Point, Cobb Island, Charles County, Maryland, 20625, United States",
+    "place_name": "Cobb Island",
+    "version": "city-v2"
+  },
+  "38.27071,-104.60506": {
+    "full_place": "Pueblo, Pueblo County, Colorado, United States",
+    "place_name": "Pueblo",
+    "version": "city-v2"
+  },
+  "38.29891,-111.40208": {
+    "full_place": "Wayne County, Utah, United States",
+    "place_name": "Wayne County",
+    "version": "city-v2"
+  },
+  "38.30492,-76.65840": {
+    "full_place": "Leonardtown, Saint Mary's County, Maryland, United States",
+    "place_name": "Leonardtown",
+    "version": "city-v2"
+  },
+  "38.30668,-80.09434": {
+    "full_place": "Pocahontas County, West Virginia, United States",
+    "place_name": "Pocahontas County",
+    "version": "city-v2"
+  },
+  "38.33644,-81.61631": {
+    "full_place": "East End, Charleston, Kanawha County, West Virginia, 25305, United States",
+    "place_name": "Charleston",
+    "version": "city-v2"
+  },
+  "38.36786,-76.78177": {
+    "full_place": "Chaptico, Saint Mary's County, Maryland, 20624, United States",
+    "place_name": "Chaptico",
+    "version": "city-v2"
+  },
+  "38.38989,-105.11755": {
+    "full_place": "Florence, Fremont County, Colorado, 81226, United States",
+    "place_name": "Florence",
+    "version": "city-v2"
+  },
+  "38.39252,-76.95854": {
+    "full_place": "Newburg, Charles County, Maryland, 20664, United States",
+    "place_name": "Newburg",
+    "version": "city-v2"
+  },
+  "38.39631,-77.15474": {
+    "full_place": "Riverside, Charles County, Maryland, United States",
+    "place_name": "Riverside",
+    "version": "city-v2"
+  },
+  "38.41744,-75.99329": {
+    "full_place": "Bestpitch, Dorchester County, Maryland, United States",
+    "place_name": "Bestpitch",
+    "version": "city-v2"
+  },
+  "38.47516,-79.69901": {
+    "full_place": "Pocahontas County, West Virginia, United States",
+    "place_name": "Pocahontas County",
+    "version": "city-v2"
+  },
+  "38.48855,-76.25956": {
+    "full_place": "Dorchester County, Maryland, United States",
+    "place_name": "Dorchester County",
+    "version": "city-v2"
+  },
+  "38.48950,-107.05882": {
+    "full_place": "Gunnison County, Colorado, United States",
+    "place_name": "Gunnison County",
+    "version": "city-v2"
+  },
+  "38.53619,-98.84874": {
+    "full_place": "Boyd, Barton County, Kansas, United States",
+    "place_name": "Boyd",
+    "version": "city-v2"
+  },
+  "38.55620,-76.99943": {
+    "full_place": "Mount Carmel, Waldorf, Charles County, Maryland, 20675, United States",
+    "place_name": "Waldorf",
+    "version": "city-v2"
+  },
+  "38.56980,-76.06466": {
+    "full_place": "Cambridge, Dorchester County, Maryland, 21613, United States",
+    "place_name": "Cambridge",
+    "version": "city-v2"
+  },
+  "38.57199,-76.07651": {
+    "full_place": "Cambridge, Dorchester County, Maryland, 21613, United States",
+    "place_name": "Cambridge",
+    "version": "city-v2"
+  },
+  "38.57525,-82.84045": {
+    "full_place": "Greenup, Greenup County, Kentucky, United States",
+    "place_name": "Greenup",
+    "version": "city-v2"
+  },
+  "38.62857,-90.17547": {
+    "full_place": "East St. Louis, Saint Clair County, Illinois, United States",
+    "place_name": "East St. Louis",
+    "version": "city-v2"
+  },
+  "38.63094,-90.17842": {
+    "full_place": "East St. Louis, Saint Clair County, Illinois, United States",
+    "place_name": "East St. Louis",
+    "version": "city-v2"
+  },
+  "38.66104,-96.49041": {
+    "full_place": "Council Grove, Morris County, Kansas, United States",
+    "place_name": "Council Grove",
+    "version": "city-v2"
+  },
+  "38.67601,-119.73591": {
+    "full_place": "Alpine County, California, United States",
+    "place_name": "Alpine County",
+    "version": "city-v2"
+  },
+  "38.68036,-75.94891": {
+    "full_place": "Choptank, Caroline County, Maryland, United States",
+    "place_name": "Choptank",
+    "version": "city-v2"
+  },
+  "38.70042,-75.92238": {
+    "full_place": "Wrights Wharf, Preston, Caroline County, Maryland, 21655, United States",
+    "place_name": "Preston",
+    "version": "city-v2"
+  },
+  "38.70146,-90.16776": {
+    "full_place": "Granite City, Madison County, Illinois, 62040, United States",
+    "place_name": "Granite City",
+    "version": "city-v2"
+  },
+  "38.70484,-75.95906": {
+    "full_place": "Caroline County, Maryland, United States",
+    "place_name": "Caroline County",
+    "version": "city-v2"
+  },
+  "38.70716,-87.51918": {
+    "full_place": "Lawrence County, Illinois, United States",
+    "place_name": "Lawrence County",
+    "version": "city-v2"
+  },
+  "38.71308,-77.07363": {
+    "full_place": "Fort Hunt, Fairfax County, Virginia, 22308, United States",
+    "place_name": "Fort Hunt",
+    "version": "city-v2"
+  },
+  "38.83361,-90.09926": {
+    "full_place": "Hartford, Madison County, Illinois, 62048, United States",
+    "place_name": "Hartford",
+    "version": "city-v2"
+  },
+  "38.89810,-75.85932": {
+    "full_place": "Lor-J Estates, Caroline County, Maryland, 21629, United States",
+    "place_name": "Lor-J Estates",
+    "version": "city-v2"
+  },
+  "38.90074,-107.92375": {
+    "full_place": "Cedaredge, Delta County, Colorado, United States",
+    "place_name": "Cedaredge",
+    "version": "city-v2"
+  },
+  "38.90676,-78.20035": {
+    "full_place": "Warren County, Virginia, United States",
+    "place_name": "Warren County",
+    "version": "city-v2"
+  },
+  "38.93177,-74.96044": {
+    "full_place": "Cape May Point, Cape May County, New Jersey, 08212, United States",
+    "place_name": "Cape May Point",
+    "version": "city-v2"
+  },
+  "38.94184,-109.62067": {
+    "full_place": "Grand County, Utah, United States",
+    "place_name": "Grand County",
+    "version": "city-v2"
+  },
+  "38.94621,-105.28936": {
+    "full_place": "Florissant, Teller County, Colorado, United States",
+    "place_name": "Florissant",
+    "version": "city-v2"
+  },
+  "38.95922,-119.94209": {
+    "full_place": "Stateline, Bijou, South Lake Tahoe, El Dorado County, California, 96151, United States",
+    "place_name": "South Lake Tahoe",
+    "version": "city-v2"
+  },
+  "38.96388,-77.18356": {
+    "full_place": "Langley, McLean, Fairfax County, Virginia, 22101, United States",
+    "place_name": "McLean",
+    "version": "city-v2"
+  },
+  "38.97301,-75.79899": {
+    "full_place": "Greensboro, Caroline County, Maryland, United States",
+    "place_name": "Greensboro",
+    "version": "city-v2"
+  },
+  "38.98000,-76.31643": {
+    "full_place": "Chester, Queen Anne's County, Maryland, 21618, United States",
+    "place_name": "Chester",
+    "version": "city-v2"
+  },
+  "39.01709,-76.22079": {
+    "full_place": "Kent County, Maryland, United States",
+    "place_name": "Kent County",
+    "version": "city-v2"
+  },
+  "39.02504,-108.22188": {
+    "full_place": "Mesa County, Colorado, United States",
+    "place_name": "Mesa County",
+    "version": "city-v2"
+  },
+  "39.02965,-75.73885": {
+    "full_place": "Caroline County, Maryland, United States",
+    "place_name": "Caroline County",
+    "version": "city-v2"
+  },
+  "39.03253,-108.05870": {
+    "full_place": "Mesa County, Colorado, United States",
+    "place_name": "Mesa County",
+    "version": "city-v2"
+  },
+  "39.08689,-84.87809": {
+    "full_place": "Lawrenceburg, Lawrenceburg Township, Dearborn County, Indiana, United States",
+    "place_name": "Lawrenceburg",
+    "version": "city-v2"
+  },
+  "39.09717,-84.85348": {
+    "full_place": "Lawrenceburg, Lawrenceburg Township, Dearborn County, Indiana, United States",
+    "place_name": "Lawrenceburg",
+    "version": "city-v2"
+  },
+  "39.10503,-84.84960": {
+    "full_place": "Lawrenceburg, Lawrenceburg Township, Dearborn County, Indiana, United States",
+    "place_name": "Lawrenceburg",
+    "version": "city-v2"
+  },
+  "39.10653,-90.56060": {
+    "full_place": "Reardon, Jersey County, Illinois, 62031, United States",
+    "place_name": "Reardon",
+    "version": "city-v2"
+  },
+  "39.11094,-108.64748": {
+    "full_place": "Grand Junction, Mesa County, Colorado, United States",
+    "place_name": "Grand Junction",
+    "version": "city-v2"
+  },
+  "39.14914,-84.82003": {
+    "full_place": "Elizabethtown, Whitewater Township, Hamilton County, Ohio, 45033, United States",
+    "place_name": "Whitewater Township",
+    "version": "city-v2"
+  },
+  "39.18252,-108.28092": {
+    "full_place": "Mesa County, Colorado, United States",
+    "place_name": "Mesa County",
+    "version": "city-v2"
+  },
+  "39.18733,-106.81532": {
+    "full_place": "Aspen, Pitkin County, Colorado, United States",
+    "place_name": "Aspen",
+    "version": "city-v2"
+  },
+  "39.21701,-74.92212": {
+    "full_place": "Eldora, Dennis Township, Cape May County, New Jersey, 08314, United States",
+    "place_name": "Dennis Township",
+    "version": "city-v2"
+  },
+  "39.21762,-74.99182": {
+    "full_place": "Heislerville, Maurice River Township, Cumberland County, New Jersey, 08324, United States",
+    "place_name": "Heislerville",
+    "version": "city-v2"
+  },
+  "39.22341,-76.07000": {
+    "full_place": "Lees Corner, Chestertown, Kent County, Maryland, 21620, United States",
+    "place_name": "Chestertown",
+    "version": "city-v2"
+  },
+  "39.23822,-75.17180": {
+    "full_place": "Raybins Beach, Fortescue, Downe Township, Cumberland County, New Jersey, 08321, United States",
+    "place_name": "Downe Township",
+    "version": "city-v2"
+  },
+  "39.25129,-119.97300": {
+    "full_place": "Incline Village, Washoe County, Nevada, 89451, United States",
+    "place_name": "Incline Village",
+    "version": "city-v2"
+  },
+  "39.25786,-81.53118": {
+    "full_place": "South Parkersburg, Parkersburg, Wood County, West Virginia, 26101, United States",
+    "place_name": "Parkersburg",
+    "version": "city-v2"
+  },
+  "39.26745,-76.61375": {
+    "full_place": "South Baltimore, Baltimore, Maryland, United States",
+    "place_name": "Baltimore",
+    "version": "city-v2"
+  },
+  "39.28781,-76.61216": {
+    "full_place": "Downtown, Baltimore, Maryland, United States",
+    "place_name": "Baltimore",
+    "version": "city-v2"
+  },
+  "39.29596,-90.60983": {
+    "full_place": "Kampsville, Calhoun County, Illinois, 62053, United States",
+    "place_name": "Kampsville",
+    "version": "city-v2"
+  },
+  "39.30271,-74.82108": {
+    "full_place": "Upper Township, Cape May County, New Jersey, United States",
+    "place_name": "Upper Township",
+    "version": "city-v2"
+  },
+  "39.30334,-75.16419": {
+    "full_place": "Frames Corner, Newport, Downe Township, Cumberland County, New Jersey, 08345, United States",
+    "place_name": "Downe Township",
+    "version": "city-v2"
+  },
+  "39.32104,-77.71915": {
+    "full_place": "Jefferson County, West Virginia, United States",
+    "place_name": "Jefferson County",
+    "version": "city-v2"
+  },
+  "39.33473,-110.96480": {
+    "full_place": "Huntington, Emery County, Utah, 84528, United States",
+    "place_name": "Huntington",
+    "version": "city-v2"
+  },
+  "39.37060,-90.90505": {
+    "full_place": "Clarksville, Pike County, Missouri, United States",
+    "place_name": "Clarksville",
+    "version": "city-v2"
+  },
+  "39.38262,-75.40625": {
+    "full_place": "Greenwich Township, Cumberland County, New Jersey, 08323, United States",
+    "place_name": "Greenwich Township",
+    "version": "city-v2"
+  },
+  "39.39387,-75.34196": {
+    "full_place": "Greenwich, Greenwich Township, Cumberland County, New Jersey, 08323, United States",
+    "place_name": "Greenwich Township",
+    "version": "city-v2"
+  },
+  "39.39781,-82.55391": {
+    "full_place": "Benton Township, Hocking County, Ohio, 43152, United States",
+    "place_name": "Benton Township",
+    "version": "city-v2"
+  },
+  "39.41674,-76.62920": {
+    "full_place": "Lutherville, Baltimore County, Maryland, 21204, United States",
+    "place_name": "Lutherville",
+    "version": "city-v2"
+  },
+  "39.50395,-106.14123": {
+    "full_place": "Wheeler Junction, Summit County, Colorado, United States",
+    "place_name": "Wheeler Junction",
+    "version": "city-v2"
+  },
+  "39.53050,-75.81337": {
+    "full_place": "North Chesapeake City, Chesapeake City, Cecil County, Maryland, 21915, United States",
+    "place_name": "North Chesapeake City",
+    "version": "city-v2"
+  },
+  "39.53812,-78.45581": {
+    "full_place": "Paw Paw, Morgan County, West Virginia, United States",
+    "place_name": "Paw Paw",
+    "version": "city-v2"
+  },
+  "39.57670,-82.52189": {
+    "full_place": "Rockbridge, Good Hope Township, Hocking County, Ohio, 43149, United States",
+    "place_name": "Good Hope Township",
+    "version": "city-v2"
+  },
+  "39.59341,-91.21294": {
+    "full_place": "Ralls County, Missouri, United States",
+    "place_name": "Ralls County",
+    "version": "city-v2"
+  },
+  "39.60193,-75.54951": {
+    "full_place": "Fort Mott, Pennsville Township, Salem County, New Jersey, 19706, United States",
+    "place_name": "Pennsville Township",
+    "version": "city-v2"
+  },
+  "39.63044,-119.29059": {
+    "full_place": "Wadsworth, Washoe County, Nevada, 89442, United States",
+    "place_name": "Wadsworth",
+    "version": "city-v2"
+  },
+  "39.63429,-74.67694": {
+    "full_place": "Pleasant Mills, Mullica Township, Atlantic County, New Jersey, United States",
+    "place_name": "Mullica Township",
+    "version": "city-v2"
+  },
+  "39.63439,-111.43931": {
+    "full_place": "Fairview, Sanpete County, Utah, 84629, United States",
+    "place_name": "Fairview",
+    "version": "city-v2"
+  },
+  "39.65448,-105.19023": {
+    "full_place": "Morrison, Jefferson County, Colorado, United States",
+    "place_name": "Morrison",
+    "version": "city-v2"
+  },
+  "39.67830,-111.31423": {
+    "full_place": "Sanpete County, Utah, United States",
+    "place_name": "Sanpete County",
+    "version": "city-v2"
+  },
+  "39.67973,-105.36537": {
+    "full_place": "Bergen Park, Jefferson County, Colorado, 80437, United States",
+    "place_name": "Bergen Park",
+    "version": "city-v2"
+  },
+  "39.71848,-111.73125": {
+    "full_place": "Juab County, Utah, United States",
+    "place_name": "Juab County",
+    "version": "city-v2"
+  },
+  "39.74608,-75.54629": {
+    "full_place": "South Wilmington, Wilmington, New Castle County, Delaware, 19801, United States",
+    "place_name": "Wilmington",
+    "version": "city-v2"
+  },
+  "39.83210,-75.62690": {
+    "full_place": "Delaware Heights, Centreville, New Castle County, Delaware, 19735, United States",
+    "place_name": "Centreville",
+    "version": "city-v2"
+  },
+  "39.85756,-106.65127": {
+    "full_place": "State Bridge, Eagle County, Colorado, United States",
+    "place_name": "State Bridge",
+    "version": "city-v2"
+  },
+  "39.86200,-111.02669": {
+    "full_place": "Colton, Utah County, Utah, United States",
+    "place_name": "Colton",
+    "version": "city-v2"
+  },
+  "39.89142,-77.19058": {
+    "full_place": "Shrivers Corners, Straban Township, Adams County, Pennsylvania, United States",
+    "place_name": "Straban Township",
+    "version": "city-v2"
+  },
+  "39.91082,-85.16122": {
+    "full_place": "Hagerstown, Wayne County, Indiana, United States",
+    "place_name": "Hagerstown",
+    "version": "city-v2"
+  },
+  "39.91436,-119.56884": {
+    "full_place": "Washoe County, Nevada, United States",
+    "place_name": "Washoe County",
+    "version": "city-v2"
+  },
+  "40.04456,-111.72343": {
+    "full_place": "Payson, Utah County, Utah, 84651, United States",
+    "place_name": "Payson",
+    "version": "city-v2"
+  },
+  "40.17197,-121.08058": {
+    "full_place": "Canyon Dam, Plumas County, California, United States",
+    "place_name": "Canyon Dam",
+    "version": "city-v2"
+  },
+  "40.19763,-74.75804": {
+    "full_place": "Trenton, Mercer County, New Jersey, United States",
+    "place_name": "Trenton",
+    "version": "city-v2"
+  },
+  "40.25070,-105.83569": {
+    "full_place": "Grand Lake, Grand County, Colorado, United States",
+    "place_name": "Grand Lake",
+    "version": "city-v2"
+  },
+  "40.25072,-105.83566": {
+    "full_place": "Grand Lake, Grand County, Colorado, United States",
+    "place_name": "Grand Lake",
+    "version": "city-v2"
+  },
+  "40.29699,-90.08620": {
+    "full_place": "Fulton County, Illinois, United States",
+    "place_name": "Fulton County",
+    "version": "city-v2"
+  },
+  "40.30215,-109.98886": {
+    "full_place": "Roosevelt, Duchesne County, Utah, 84066, United States",
+    "place_name": "Roosevelt",
+    "version": "city-v2"
+  },
+  "40.30220,-109.97575": {
+    "full_place": "Ballard, Uintah County, Utah, United States",
+    "place_name": "Ballard",
+    "version": "city-v2"
+  },
+  "40.30528,-89.64043": {
+    "full_place": "Allen, Mason County, Illinois, 62682, United States",
+    "place_name": "Allen",
+    "version": "city-v2"
+  },
+  "40.37562,-74.61336": {
+    "full_place": "Kingston, South Brunswick, Middlesex County, New Jersey, 08528, United States",
+    "place_name": "South Brunswick",
+    "version": "city-v2"
+  },
+  "40.37612,-105.52366": {
+    "full_place": "Stanley Heights Subdivision, Estes Park, Larimer County, Colorado, 80517, United States",
+    "place_name": "Estes Park",
+    "version": "city-v2"
+  },
+  "40.38534,-91.43690": {
+    "full_place": "Clark County, Missouri, United States",
+    "place_name": "Clark County",
+    "version": "city-v2"
+  },
+  "40.40057,-74.63774": {
+    "full_place": "Rocky Hill, Somerset County, New Jersey, 08553, United States",
+    "place_name": "Rocky Hill",
+    "version": "city-v2"
+  },
+  "40.43861,-74.61565": {
+    "full_place": "Griggstown, Franklin Township, Somerset County, New Jersey, 08502, United States",
+    "place_name": "Franklin Township",
+    "version": "city-v2"
+  },
+  "40.45571,-109.52854": {
+    "full_place": "Vernal, Uintah County, Utah, 84079, United States",
+    "place_name": "Vernal",
+    "version": "city-v2"
+  },
+  "40.46682,-81.41278": {
+    "full_place": "Schoenbrunn Estates, New Philadelphia, Tuscarawas County, Ohio, 44663, United States",
+    "place_name": "New Philadelphia",
+    "version": "city-v2"
+  },
+  "40.46904,-82.18371": {
+    "full_place": "Brinkhaven, Union Township, Knox County, Ohio, United States",
+    "place_name": "Brinkhaven",
+    "version": "city-v2"
+  },
+  "40.52644,-75.06091": {
+    "full_place": "Frenchtown, Hunterdon County, New Jersey, United States",
+    "place_name": "Frenchtown",
+    "version": "city-v2"
+  },
+  "40.53813,-89.66441": {
+    "full_place": "Pekin, Tazewell County, Illinois, 61554, United States",
+    "place_name": "Pekin",
+    "version": "city-v2"
+  },
+  "40.58368,-95.63194": {
+    "full_place": "Atchison County, Missouri, United States",
+    "place_name": "Atchison County",
+    "version": "city-v2"
+  },
+  "40.64258,-80.51904": {
+    "full_place": "East End, Glendale, East Liverpool, Columbiana County, Ohio, 26034, United States",
+    "place_name": "East Liverpool",
+    "version": "city-v2"
+  },
+  "40.65528,-81.64895": {
+    "full_place": "Sugar Creek Township, Stark County, Ohio, United States",
+    "place_name": "Sugar Creek Township",
+    "version": "city-v2"
+  },
+  "40.85389,-73.96346": {
+    "full_place": "Linwood, Fort Lee, Bergen County, New Jersey, 07024, United States",
+    "place_name": "Fort Lee",
+    "version": "city-v2"
+  },
+  "40.91404,-98.38319": {
+    "full_place": "Grand Island, Hall County, Nebraska, United States",
+    "place_name": "Grand Island",
+    "version": "city-v2"
+  },
+  "40.98828,-109.72270": {
+    "full_place": "Manila, Daggett County, Utah, 84046, United States",
+    "place_name": "Manila",
+    "version": "city-v2"
+  },
+  "41.00521,-73.92029": {
+    "full_place": "Alpine, Bergen County, New Jersey, 07620, United States",
+    "place_name": "Alpine",
+    "version": "city-v2"
+  },
+  "41.03637,-73.67515": {
+    "full_place": "Glenville, Greenwich, Western Connecticut Planning Region, Connecticut, 06831, United States",
+    "place_name": "Greenwich",
+    "version": "city-v2"
+  },
+  "41.18592,-104.05334": {
+    "full_place": "Pine Bluffs, Laramie County, Wyoming, 82082, United States",
+    "place_name": "Pine Bluffs",
+    "version": "city-v2"
+  },
+  "41.24666,-73.08603": {
+    "full_place": "Baldwins Crossing, Milford, South Central Connecticut Planning Region, Connecticut, 06461, United States",
+    "place_name": "Milford",
+    "version": "city-v2"
+  },
+  "41.34751,-88.84267": {
+    "full_place": "Ottawa, LaSalle County, Illinois, 61350, United States",
+    "place_name": "Ottawa",
+    "version": "city-v2"
+  },
+  "41.48051,-81.66570": {
+    "full_place": "Industrial Valley, Cleveland, Cuyahoga County, Ohio, 44127, United States",
+    "place_name": "Cleveland",
+    "version": "city-v2"
+  },
+  "41.49464,-87.52560": {
+    "full_place": "Bloom Township, Cook County, Illinois, United States",
+    "place_name": "Bloom Township",
+    "version": "city-v2"
+  },
+  "41.55112,-96.09626": {
+    "full_place": "Blair, Washington County, Nebraska, United States",
+    "place_name": "Blair",
+    "version": "city-v2"
+  },
+  "41.58455,-83.83968": {
+    "full_place": "Wilkins, Lucas County, Ohio, 43558, United States",
+    "place_name": "Wilkins",
+    "version": "city-v2"
+  },
+  "41.60470,-72.01812": {
+    "full_place": "Newent, Lisbon, Southeastern Connecticut Planning Region, Connecticut, 06383, United States",
+    "place_name": "Lisbon",
+    "version": "city-v2"
+  },
+  "41.67702,-71.26608": {
+    "full_place": "Bristol, Bristol County, Rhode Island, 02809, United States",
+    "place_name": "Bristol",
+    "version": "city-v2"
+  },
+  "41.73032,-71.28181": {
+    "full_place": "Warren, Bristol County, Rhode Island, 02885, United States",
+    "place_name": "Warren",
+    "version": "city-v2"
+  },
+  "41.73905,-111.83379": {
+    "full_place": "Logan, Cache County, Utah, United States",
+    "place_name": "Logan",
+    "version": "city-v2"
+  },
+  "41.75919,-70.49374": {
+    "full_place": "The Springs, Sandwich, Barnstable County, Massachusetts, 02563, United States",
+    "place_name": "Sandwich",
+    "version": "city-v2"
+  },
+  "41.77817,-70.00349": {
+    "full_place": "Namskaket, Orleans, Barnstable County, Massachusetts, 02653, United States",
+    "place_name": "Orleans",
+    "version": "city-v2"
+  },
+  "41.86475,-90.17318": {
+    "full_place": "Clinton County, Iowa, United States",
+    "place_name": "Clinton County",
+    "version": "city-v2"
+  },
+  "41.87839,-87.61722": {
+    "full_place": "Loop, Chicago, South Chicago Township, Cook County, Illinois, United States",
+    "place_name": "Chicago",
+    "version": "city-v2"
+  },
+  "41.94389,-80.51937": {
+    "full_place": "Conneaut, Ashtabula County, Ohio, 44030, United States",
+    "place_name": "Conneaut",
+    "version": "city-v2"
+  },
+  "41.94391,-80.51927": {
+    "full_place": "Springfield Township, Erie County, Pennsylvania, United States",
+    "place_name": "Springfield Township",
+    "version": "city-v2"
+  },
+  "41.94665,-111.39340": {
+    "full_place": "Garden City, Rich County, Utah, 84028, United States",
+    "place_name": "Garden City",
+    "version": "city-v2"
+  },
+  "41.99299,-120.29809": {
+    "full_place": "New Pine Creek, Modoc County, California, 97635, United States",
+    "place_name": "New Pine Creek",
+    "version": "city-v2"
+  },
+  "41.99849,-124.20828": {
+    "full_place": "Winchuck, Curry County, Oregon, United States",
+    "place_name": "Winchuck",
+    "version": "city-v2"
+  },
+  "41.99891,-111.81277": {
+    "full_place": "Franklin, Franklin County, Idaho, 83237, United States",
+    "place_name": "Franklin",
+    "version": "city-v2"
+  },
+  "42.02696,-72.01011": {
+    "full_place": "North Woodstock, Woodstock, Northeastern Connecticut Planning Region, Connecticut, 06244, United States",
+    "place_name": "Woodstock",
+    "version": "city-v2"
+  },
+  "42.09711,-102.87214": {
+    "full_place": "Alliance, Box Butte County, Nebraska, 69301, United States",
+    "place_name": "Alliance",
+    "version": "city-v2"
+  },
+  "42.10389,-80.14834": {
+    "full_place": "Millcreek Township, Erie County, Pennsylvania, United States",
+    "place_name": "Millcreek Township",
+    "version": "city-v2"
+  },
+  "42.16496,-80.08348": {
+    "full_place": "Millcreek Township, Erie County, Pennsylvania, United States",
+    "place_name": "Millcreek Township",
+    "version": "city-v2"
+  },
+  "42.25900,-72.57457": {
+    "full_place": "South Hadley Center, South Hadley, Hampshire County, Massachusetts, 01075, United States",
+    "place_name": "South Hadley",
+    "version": "city-v2"
+  },
+  "42.33188,-83.04703": {
+    "full_place": "Midtown, Detroit, Wayne County, Michigan, 48201, United States",
+    "place_name": "Detroit",
+    "version": "city-v2"
+  },
+  "42.40094,-71.13600": {
+    "full_place": "North Cambridge, Cambridge, Middlesex County, Massachusetts, 02140, United States",
+    "place_name": "Cambridge",
+    "version": "city-v2"
+  },
+  "42.43118,-123.04888": {
+    "full_place": "Gold Hill, Jackson County, Oregon, United States",
+    "place_name": "Gold Hill",
+    "version": "city-v2"
+  },
+  "42.46705,-71.35703": {
+    "full_place": "West Concord, Concord, Middlesex County, Massachusetts, 01742, United States",
+    "place_name": "Concord",
+    "version": "city-v2"
+  },
+  "42.49157,-90.65590": {
+    "full_place": "Dunleith Township, Jo Daviess County, Illinois, 61025, United States",
+    "place_name": "Dunleith Township",
+    "version": "city-v2"
+  },
+  "42.50803,-90.60987": {
+    "full_place": "Town of Jamestown, Grant County, Wisconsin, 53812, United States",
+    "place_name": "Town of Jamestown",
+    "version": "city-v2"
+  },
+  "42.56243,-72.27456": {
+    "full_place": "Orange, Franklin County, Massachusetts, 01364, United States",
+    "place_name": "Orange",
+    "version": "city-v2"
+  },
+  "42.63947,-83.28867": {
+    "full_place": "Pontiac, Oakland County, Michigan, United States",
+    "place_name": "Pontiac",
+    "version": "city-v2"
+  },
+  "42.72386,-73.27318": {
+    "full_place": "Town of Petersburgh, Rensselaer County, New York, 12138, United States",
+    "place_name": "Town of Petersburgh",
+    "version": "city-v2"
+  },
+  "42.79015,-73.67826": {
+    "full_place": "Village of Waterford, Town of Waterford, Saratoga County, New York, United States",
+    "place_name": "Village of Waterford",
+    "version": "city-v2"
+  },
+  "42.81423,-73.94407": {
+    "full_place": "City of Schenectady, Schenectady County, New York, United States",
+    "place_name": "City of Schenectady",
+    "version": "city-v2"
+  },
+  "42.82311,-96.56413": {
+    "full_place": "Akron, Plymouth County, Iowa, United States",
+    "place_name": "Akron",
+    "version": "city-v2"
+  },
+  "42.82374,-73.73284": {
+    "full_place": "Crescent, Town of Halfmoon, Saratoga County, New York, 12188, United States",
+    "place_name": "Town of Halfmoon",
+    "version": "city-v2"
+  },
+  "42.94163,-72.29536": {
+    "full_place": "Harper Acres, Keene, Cheshire County, New Hampshire, 03431, United States",
+    "place_name": "Keene",
+    "version": "city-v2"
+  },
+  "42.99630,-111.04405": {
+    "full_place": "Freedom, Lincoln County, Wyoming, 83120, United States",
+    "place_name": "Freedom",
+    "version": "city-v2"
+  },
+  "43.00645,-72.43700": {
+    "full_place": "Westmoreland Depot, Westmoreland, Cheshire County, New Hampshire, 03467, United States",
+    "place_name": "Westmoreland",
+    "version": "city-v2"
+  },
+  "43.03555,-72.43959": {
+    "full_place": "Walpole, Cheshire County, New Hampshire, United States",
+    "place_name": "Walpole",
+    "version": "city-v2"
+  },
+  "43.08898,-122.11586": {
+    "full_place": "Douglas County, Oregon, United States",
+    "place_name": "Douglas County",
+    "version": "city-v2"
+  },
+  "43.24392,-116.37722": {
+    "full_place": "Ada County, Idaho, United States",
+    "place_name": "Ada County",
+    "version": "city-v2"
+  },
+  "43.25340,-122.16035": {
+    "full_place": "Douglas County, Oregon, United States",
+    "place_name": "Douglas County",
+    "version": "city-v2"
+  },
+  "43.48718,-121.90859": {
+    "full_place": "Klamath County, Oregon, United States",
+    "place_name": "Klamath County",
+    "version": "city-v2"
+  },
+  "43.59332,-116.39371": {
+    "full_place": "Meridian, Ada County, Idaho, 83646, United States",
+    "place_name": "Meridian",
+    "version": "city-v2"
+  },
+  "43.64606,-121.52179": {
+    "full_place": "Deschutes County, Oregon, United States",
+    "place_name": "Deschutes County",
+    "version": "city-v2"
+  },
+  "43.68460,-116.32005": {
+    "full_place": "Eagle, Ada County, Idaho, 83616, United States",
+    "place_name": "Eagle",
+    "version": "city-v2"
+  },
+  "43.71037,-92.70038": {
+    "full_place": "Pleasant Acres Mobile Home Park, Dexter, Mower County, Minnesota, 55926, United States",
+    "place_name": "Dexter",
+    "version": "city-v2"
+  },
+  "43.71609,-72.30148": {
+    "full_place": "Lewiston, Norwich, Windsor County, Vermont, 03755, United States",
+    "place_name": "Norwich",
+    "version": "city-v2"
+  },
+  "43.74768,-122.50773": {
+    "full_place": "Lane County, Oregon, United States",
+    "place_name": "Lane County",
+    "version": "city-v2"
+  },
+  "43.77274,-103.33936": {
+    "full_place": "Custer County, South Dakota, United States",
+    "place_name": "Custer County",
+    "version": "city-v2"
+  },
+  "43.80981,-99.33243": {
+    "full_place": "Chamberlain, Chamberlain Township, Brule County, South Dakota, 57325, United States",
+    "place_name": "Chamberlain",
+    "version": "city-v2"
+  },
+  "43.81072,-72.15911": {
+    "full_place": "Lyme, Grafton County, New Hampshire, United States",
+    "place_name": "Lyme",
+    "version": "city-v2"
+  },
+  "43.81170,-72.18651": {
+    "full_place": "East Thetford, Thetford, Orange County, Vermont, 05043, United States",
+    "place_name": "East Thetford",
+    "version": "city-v2"
+  },
+  "43.82597,-91.30363": {
+    "full_place": "La Crescent, Houston County, Minnesota, 55947, United States",
+    "place_name": "La Crescent",
+    "version": "city-v2"
+  },
+  "43.89189,-103.58852": {
+    "full_place": "Pennington County, South Dakota, United States",
+    "place_name": "Pennington County",
+    "version": "city-v2"
+  },
+  "43.97829,-71.13324": {
+    "full_place": "Quint, Conway, Carroll County, New Hampshire, 03818, United States",
+    "place_name": "Conway",
+    "version": "city-v2"
+  },
+  "43.97887,-71.11687": {
+    "full_place": "Conway, Carroll County, New Hampshire, 03818, United States",
+    "place_name": "Conway",
+    "version": "city-v2"
+  },
+  "44.02199,-121.36399": {
+    "full_place": "Deschutes County, Oregon, United States",
+    "place_name": "Deschutes County",
+    "version": "city-v2"
+  },
+  "44.03013,-71.68601": {
+    "full_place": "North Woodstock, Woodstock, Grafton County, New Hampshire, 03262, United States",
+    "place_name": "Woodstock",
+    "version": "city-v2"
+  },
+  "44.16840,-94.00192": {
+    "full_place": "Mankato, Blue Earth County, Minnesota, 56001, United States",
+    "place_name": "Mankato",
+    "version": "city-v2"
+  },
+  "44.18425,-122.07371": {
+    "full_place": "Lane County, Oregon, United States",
+    "place_name": "Lane County",
+    "version": "city-v2"
+  },
+  "44.20856,-71.68492": {
+    "full_place": "Franconia, Grafton County, New Hampshire, 03580, United States",
+    "place_name": "Franconia",
+    "version": "city-v2"
+  },
+  "44.29159,-121.55539": {
+    "full_place": "Sisters, Deschutes County, Oregon, 97759, United States",
+    "place_name": "Sisters",
+    "version": "city-v2"
+  },
+  "44.32753,-72.03983": {
+    "full_place": "East Barnet Inwood Station, Barnet, Caledonia County, Vermont, 05821, United States",
+    "place_name": "Barnet",
+    "version": "city-v2"
+  },
+  "44.36028,-68.20466": {
+    "full_place": "Bar Harbor, Hancock County, Maine, United States",
+    "place_name": "Bar Harbor",
+    "version": "city-v2"
+  },
+  "44.40371,-72.02347": {
+    "full_place": "Saint Johnsbury, Caledonia County, Vermont, United States",
+    "place_name": "Saint Johnsbury",
+    "version": "city-v2"
+  },
+  "44.41050,-68.02505": {
+    "full_place": "Gouldsboro, Hancock County, Maine, United States",
+    "place_name": "Gouldsboro",
+    "version": "city-v2"
+  },
+  "44.42040,-83.33026": {
+    "full_place": "Oscoda, Oscoda Township, Iosco County, Michigan, 48750, United States",
+    "place_name": "Oscoda Township",
+    "version": "city-v2"
+  },
+  "44.45656,-83.77263": {
+    "full_place": "Plainfield Township, Iosco County, Michigan, United States",
+    "place_name": "Plainfield Township",
+    "version": "city-v2"
+  },
+  "44.51004,-68.39122": {
+    "full_place": "Ellsworth, Hancock County, Maine, United States",
+    "place_name": "Ellsworth",
+    "version": "city-v2"
+  },
+  "44.52760,-68.23245": {
+    "full_place": "Sullivan, Hancock County, Maine, 04664, United States",
+    "place_name": "Sullivan",
+    "version": "city-v2"
+  },
+  "44.53580,-67.88076": {
+    "full_place": "Milbridge, Washington County, Maine, 04658, United States",
+    "place_name": "Milbridge",
+    "version": "city-v2"
+  },
+  "44.74888,-92.80447": {
+    "full_place": "Prescott, Pierce County, Wisconsin, United States",
+    "place_name": "Prescott",
+    "version": "city-v2"
+  },
+  "44.80322,-117.81304": {
+    "full_place": "Baker County, Oregon, United States",
+    "place_name": "Baker County",
+    "version": "city-v2"
+  },
+  "44.85859,-70.51544": {
+    "full_place": "Township E, Franklin County, Maine, United States",
+    "place_name": "Township E",
+    "version": "city-v2"
+  },
+  "44.88801,-69.80696": {
+    "full_place": "Madison, Somerset County, Maine, 04950, United States",
+    "place_name": "Madison",
+    "version": "city-v2"
+  },
+  "44.90620,-66.98570": {
+    "full_place": "Eastport, Washington County, Maine, 04631, United States",
+    "place_name": "Eastport",
+    "version": "city-v2"
+  },
+  "44.90975,-116.95324": {
+    "full_place": "Baker County, Oregon, United States",
+    "place_name": "Baker County",
+    "version": "city-v2"
+  },
+  "44.91718,-93.30004": {
+    "full_place": "Lynnhurst, Southwest, Minneapolis, Hennepin County, Minnesota, 55419, United States",
+    "place_name": "Minneapolis",
+    "version": "city-v2"
+  },
+  "44.93221,-93.30912": {
+    "full_place": "East Harriet, Southwest, Minneapolis, Hennepin County, Minnesota, United States",
+    "place_name": "Minneapolis",
+    "version": "city-v2"
+  },
+  "44.94883,-93.31653": {
+    "full_place": "Cedar - Isles - Dean, Bde Maka Ska-Isles, Minneapolis, Hennepin County, Minnesota, United States",
+    "place_name": "Minneapolis",
+    "version": "city-v2"
+  },
+  "44.96591,-87.33695": {
+    "full_place": "Carlsville, Town of Egg Harbor, Door County, Wisconsin, United States",
+    "place_name": "Town of Egg Harbor",
+    "version": "city-v2"
+  },
+  "44.96611,-70.77257": {
+    "full_place": "Oquossoc, Rangeley, Franklin County, Maine, 04964, United States",
+    "place_name": "Rangeley",
+    "version": "city-v2"
+  },
+  "44.97113,-116.28130": {
+    "full_place": "New Meadows, Adams County, Idaho, United States",
+    "place_name": "New Meadows",
+    "version": "city-v2"
+  },
+  "44.97198,-116.85826": {
+    "full_place": "Oxbow, Baker County, Oregon, 97840, United States",
+    "place_name": "Oxbow",
+    "version": "city-v2"
+  },
+  "44.97747,-93.24439": {
+    "full_place": "Cedar-Riverside, University, Minneapolis, Hennepin County, Minnesota, United States",
+    "place_name": "Minneapolis",
+    "version": "city-v2"
+  },
+  "44.97832,-74.73860": {
+    "full_place": "Rooseveltown, Town of Massena, Saint Lawrence County, New York, 13683, United States",
+    "place_name": "Town of Massena",
+    "version": "city-v2"
+  },
+  "45.00367,-110.00392": {
+    "full_place": "Silver Gate, Park County, Montana, 59081, United States",
+    "place_name": "Silver Gate",
+    "version": "city-v2"
+  },
+  "45.00597,-93.21343": {
+    "full_place": "Northeast Park, Minneapolis, Hennepin County, Minnesota, United States",
+    "place_name": "Minneapolis",
+    "version": "city-v2"
+  },
+  "45.01033,-73.37088": {
+    "full_place": "Town of Champlain, Clinton County, New York, United States",
+    "place_name": "Town of Champlain",
+    "version": "city-v2"
+  },
+  "45.02769,-93.26007": {
+    "full_place": "Columbia Park, Northeast, Minneapolis, Hennepin County, Minnesota, United States",
+    "place_name": "Minneapolis",
+    "version": "city-v2"
+  },
+  "45.03382,-93.24759": {
+    "full_place": "Columbia Park, Northeast, Minneapolis, Hennepin County, Minnesota, United States",
+    "place_name": "Minneapolis",
+    "version": "city-v2"
+  },
+  "45.06166,-87.27199": {
+    "full_place": "Egg Harbor, Door County, Wisconsin, United States",
+    "place_name": "Egg Harbor",
+    "version": "city-v2"
+  },
+  "45.14857,-87.18094": {
+    "full_place": "Ephraim, Door County, Wisconsin, 54211, United States",
+    "place_name": "Ephraim",
+    "version": "city-v2"
+  },
+  "45.17078,-87.16996": {
+    "full_place": "Ephraim, Door County, Wisconsin, 54211, United States",
+    "place_name": "Ephraim",
+    "version": "city-v2"
+  },
+  "45.17146,-109.25584": {
+    "full_place": "Carbon County, Montana, United States",
+    "place_name": "Carbon County",
+    "version": "city-v2"
+  },
+  "45.25300,-71.20596": {
+    "full_place": "Chartierville, Le Haut-Saint-François, Estrie, Québec, J0B 1K0, Canada",
+    "place_name": "Chartierville",
+    "version": "city-v2"
+  },
+  "45.28446,-122.33241": {
+    "full_place": "Estacada, Clackamas County, Oregon, 97023, United States",
+    "place_name": "Estacada",
+    "version": "city-v2"
+  },
+  "45.28958,-86.97992": {
+    "full_place": "Northport, Town of Liberty Grove, Door County, Wisconsin, United States",
+    "place_name": "Town of Liberty Grove",
+    "version": "city-v2"
+  },
+  "45.50170,-122.41390": {
+    "full_place": "Powell Valley, Gresham, Multnomah County, Oregon, United States",
+    "place_name": "Gresham",
+    "version": "city-v2"
+  },
+  "45.54434,-122.38157": {
+    "full_place": "Multnomah County, Oregon, United States",
+    "place_name": "Multnomah County",
+    "version": "city-v2"
+  },
+  "45.56547,-117.91739": {
+    "full_place": "Elgin, Union County, Oregon, 97827, United States",
+    "place_name": "Elgin",
+    "version": "city-v2"
+  },
+  "45.59819,-96.84448": {
+    "full_place": "Traverse County, Minnesota, United States",
+    "place_name": "Traverse County",
+    "version": "city-v2"
+  },
+  "45.61286,-122.00145": {
+    "full_place": "Warrendale, Multnomah County, Oregon, 97014, United States",
+    "place_name": "Warrendale",
+    "version": "city-v2"
+  },
+  "45.70754,-121.50280": {
+    "full_place": "Hood River County, Oregon, United States",
+    "place_name": "Hood River County",
+    "version": "city-v2"
+  },
+  "45.80595,-70.39670": {
+    "full_place": "Saint-Théophile, Beauce-Sartigan, Chaudière-Appalaches, Québec, G0M 2A0, Canada",
+    "place_name": "Saint-Théophile",
+    "version": "city-v2"
+  },
+  "45.91976,-68.85773": {
+    "full_place": "Mount Katahdin Township, Piscataquis County, Maine, United States",
+    "place_name": "Mount Katahdin Township",
+    "version": "city-v2"
+  },
+  "45.93270,-116.07286": {
+    "full_place": "Idaho County, Idaho, United States",
+    "place_name": "Idaho County",
+    "version": "city-v2"
+  },
+  "45.99665,-68.44670": {
+    "full_place": "Patten, Penobscot County, Maine, 04765, United States",
+    "place_name": "Patten",
+    "version": "city-v2"
+  },
+  "46.19927,-123.95507": {
+    "full_place": "Hammond, Warrenton, Clatsop County, Oregon, 97121, United States",
+    "place_name": "Hammond",
+    "version": "city-v2"
+  },
+  "46.39439,-117.03736": {
+    "full_place": "Nez Perce County, Idaho, United States",
+    "place_name": "Nez Perce County",
+    "version": "city-v2"
+  },
+  "46.41558,-100.63543": {
+    "full_place": "Morton County, North Dakota, United States",
+    "place_name": "Morton County",
+    "version": "city-v2"
+  },
+  "46.44153,-97.68149": {
+    "full_place": "Lisbon, Ransom County, North Dakota, 58054, United States",
+    "place_name": "Lisbon",
+    "version": "city-v2"
+  },
+  "46.51478,-97.86636": {
+    "full_place": "Springer Township, Ransom County, North Dakota, United States",
+    "place_name": "Springer Township",
+    "version": "city-v2"
+  },
+  "46.51895,-97.94170": {
+    "full_place": "Fort Ransom Township, Ransom County, North Dakota, 58033, United States",
+    "place_name": "Fort Ransom Township",
+    "version": "city-v2"
+  },
+  "46.52245,-97.92343": {
+    "full_place": "Fort Ransom Township, Ransom County, North Dakota, 58033, United States",
+    "place_name": "Fort Ransom Township",
+    "version": "city-v2"
+  },
+  "46.54736,-122.87649": {
+    "full_place": "Lewis County, Washington, United States",
+    "place_name": "Lewis County",
+    "version": "city-v2"
+  },
+  "46.58698,-90.88398": {
+    "full_place": "SoDo East, Ashland, Ashland County, Wisconsin, United States",
+    "place_name": "Ashland",
+    "version": "city-v2"
+  },
+  "46.59213,-91.59509": {
+    "full_place": "Town of Brule, Douglas County, Wisconsin, 54820, United States",
+    "place_name": "Town of Brule",
+    "version": "city-v2"
+  },
+  "46.61706,-94.13185": {
+    "full_place": "Mission Township, Crow Wing County, Minnesota, 56465, United States",
+    "place_name": "Mission Township",
+    "version": "city-v2"
+  },
+  "46.62376,-97.90900": {
+    "full_place": "Northland Township, Ransom County, North Dakota, United States",
+    "place_name": "Northland Township",
+    "version": "city-v2"
+  },
+  "46.62878,-97.93502": {
+    "full_place": "Northland Township, Ransom County, North Dakota, United States",
+    "place_name": "Northland Township",
+    "version": "city-v2"
+  },
+  "46.63494,-114.57993": {
+    "full_place": "Missoula County, Montana, United States",
+    "place_name": "Missoula County",
+    "version": "city-v2"
+  },
+  "46.64840,-94.33659": {
+    "full_place": "Jenkins, Crow Wing County, Minnesota, United States",
+    "place_name": "Jenkins",
+    "version": "city-v2"
+  },
+  "46.68133,-98.05061": {
+    "full_place": "Oakhill Township, Barnes County, North Dakota, 58049, United States",
+    "place_name": "Oakhill Township",
+    "version": "city-v2"
+  },
+  "46.68396,-97.97702": {
+    "full_place": "Oakhill Township, Barnes County, North Dakota, 58049, United States",
+    "place_name": "Oakhill Township",
+    "version": "city-v2"
+  },
+  "46.71790,-94.40435": {
+    "full_place": "Pine River, Cass County, Minnesota, United States",
+    "place_name": "Pine River",
+    "version": "city-v2"
+  },
+  "46.71842,-94.28771": {
+    "full_place": "Gail Lake Township, Crow Wing County, Minnesota, United States",
+    "place_name": "Gail Lake Township",
+    "version": "city-v2"
+  },
+  "46.74814,-120.78979": {
+    "full_place": "Yakima County, Washington, United States",
+    "place_name": "Yakima County",
+    "version": "city-v2"
+  },
+  "46.74829,-120.78848": {
+    "full_place": "Yakima County, Washington, United States",
+    "place_name": "Yakima County",
+    "version": "city-v2"
+  },
+  "46.77692,-68.46895": {
+    "full_place": "Portage Lake, Aroostook County, Maine, 04768, United States",
+    "place_name": "Portage Lake",
+    "version": "city-v2"
+  },
+  "46.78629,-92.09689": {
+    "full_place": "Central Business District, Central Duluth, Duluth, Saint Louis County, Minnesota, 55802, United States",
+    "place_name": "Duluth",
+    "version": "city-v2"
+  },
+  "46.81180,-119.13426": {
+    "full_place": "Adams County, Washington, United States",
+    "place_name": "Adams County",
+    "version": "city-v2"
+  },
+  "46.98706,-98.08448": {
+    "full_place": "Getchell Township, Barnes County, North Dakota, United States",
+    "place_name": "Getchell Township",
+    "version": "city-v2"
+  },
+  "47.02665,-98.08597": {
+    "full_place": "Getchell Township, Barnes County, North Dakota, United States",
+    "place_name": "Getchell Township",
+    "version": "city-v2"
+  },
+  "47.03605,-98.08161": {
+    "full_place": "Getchell Township, Barnes County, North Dakota, United States",
+    "place_name": "Getchell Township",
+    "version": "city-v2"
+  },
+  "47.03724,-98.00233": {
+    "full_place": "Getchell Township, Barnes County, North Dakota, United States",
+    "place_name": "Getchell Township",
+    "version": "city-v2"
+  },
+  "47.05439,-120.66631": {
+    "full_place": "Kittitas County, Washington, United States",
+    "place_name": "Kittitas County",
+    "version": "city-v2"
+  },
+  "47.06703,-67.94345": {
+    "full_place": "Cyr Plantation, Aroostook County, Maine, United States",
+    "place_name": "Cyr Plantation",
+    "version": "city-v2"
+  },
+  "47.12945,-88.59924": {
+    "full_place": "Hancock, Houghton County, Michigan, 49930, United States",
+    "place_name": "Hancock",
+    "version": "city-v2"
+  },
+  "47.19681,-95.22216": {
+    "full_place": "Clearwater County, Minnesota, United States",
+    "place_name": "Clearwater County",
+    "version": "city-v2"
+  },
+  "47.19922,-121.99209": {
+    "full_place": "Enumclaw, King County, Washington, 98022, United States",
+    "place_name": "Enumclaw",
+    "version": "city-v2"
+  },
+  "47.24026,-93.53299": {
+    "full_place": "Grand Rapids, Itasca County, Minnesota, 55744, United States",
+    "place_name": "Grand Rapids",
+    "version": "city-v2"
+  },
+  "47.39494,-121.52682": {
+    "full_place": "King County, Washington, United States",
+    "place_name": "King County",
+    "version": "city-v2"
+  },
+  "47.46698,-87.86710": {
+    "full_place": "Copper Harbor, Grant Township, Keweenaw County, Michigan, 49918, United States",
+    "place_name": "Grant Township",
+    "version": "city-v2"
+  },
+  "47.52184,-120.45612": {
+    "full_place": "Chelan County, Washington, United States",
+    "place_name": "Chelan County",
+    "version": "city-v2"
+  },
+  "47.56808,-122.10075": {
+    "full_place": "Vasa Park, Bellevue, King County, Washington, 99007, United States",
+    "place_name": "Bellevue",
+    "version": "city-v2"
+  },
+  "47.59507,-122.31826": {
+    "full_place": "Yesler Terrace, Seattle, King County, Washington, 98104, United States",
+    "place_name": "Seattle",
+    "version": "city-v2"
+  },
+  "47.74930,-90.34013": {
+    "full_place": "Grand Marais, Cook County, Minnesota, United States",
+    "place_name": "Grand Marais",
+    "version": "city-v2"
+  },
+  "47.84003,-93.64300": {
+    "full_place": "Effie, Itasca County, Minnesota, United States",
+    "place_name": "Effie",
+    "version": "city-v2"
+  },
+  "47.88243,-122.02136": {
+    "full_place": "Woodruff, Monroe, Snohomish County, Washington, 98272, United States",
+    "place_name": "Monroe",
+    "version": "city-v2"
+  },
+  "47.95219,-119.87725": {
+    "full_place": "Azwell, Chelan County, Washington, United States",
+    "place_name": "Azwell",
+    "version": "city-v2"
+  },
+  "48.00144,-89.58516": {
+    "full_place": "Cook County, Minnesota, United States",
+    "place_name": "Cook County",
+    "version": "city-v2"
+  },
+  "48.09206,-116.04945": {
+    "full_place": "Bonner County, Idaho, United States",
+    "place_name": "Bonner County",
+    "version": "city-v2"
+  },
+  "48.09748,-123.53987": {
+    "full_place": "Clallam County, Washington, United States",
+    "place_name": "Clallam County",
+    "version": "city-v2"
+  },
+  "48.15900,-90.89255": {
+    "full_place": "West Cook, Cook County, Minnesota, 55604, United States",
+    "place_name": "West Cook",
+    "version": "city-v2"
+  },
+  "48.17245,-116.74865": {
+    "full_place": "Laclede, Bonner County, Idaho, 83841, United States",
+    "place_name": "Laclede",
+    "version": "city-v2"
+  },
+  "48.22941,-122.73991": {
+    "full_place": "San de Fuca, Island County, Washington, United States",
+    "place_name": "San de Fuca",
+    "version": "city-v2"
+  },
+  "48.29010,-116.54985": {
+    "full_place": "Ponderay, Bonner County, Idaho, 83852, United States",
+    "place_name": "Ponderay",
+    "version": "city-v2"
+  },
+  "48.35883,-124.55769": {
+    "full_place": "Neah Bay, Clallam County, Washington, 98357, United States",
+    "place_name": "Neah Bay",
+    "version": "city-v2"
+  },
+  "48.40629,-119.51744": {
+    "full_place": "Omak, Okanogan County, Washington, 98841, United States",
+    "place_name": "Omak",
+    "version": "city-v2"
+  },
+  "48.74966,-122.49755": {
+    "full_place": "City Center, Bellingham, Whatcom County, Washington, 98225, United States",
+    "place_name": "Bellingham",
+    "version": "city-v2"
+  },
+  "49.67520,-116.87279": {
+    "full_place": "Kootenay Bay, Area A (Wynndel/Crawford Bay/Riondel), Regional District of Central Kootenay, British Columbia, V0B 1E0, Canada",
+    "place_name": "Area A (Wynndel/Crawford Bay/Riondel)",
+    "version": "city-v2"
+  },
+  "54.13378,-165.77186": {
+    "full_place": "Akutan, Aleutians East Borough, Alaska, 99553, United States",
+    "place_name": "Akutan",
+    "version": "city-v2"
+  },
+  "54.80655,-163.36340": {
+    "full_place": "False Pass, Aleutians East Borough, Alaska, 99583, United States",
+    "place_name": "False Pass",
+    "version": "city-v2"
+  },
+  "54.85431,-163.40809": {
+    "full_place": "False Pass, Aleutians East Borough, Alaska, 99583, United States",
+    "place_name": "False Pass",
+    "version": "city-v2"
+  },
+  "55.14311,-162.56155": {
+    "full_place": "Aleutians East Borough, Alaska, United States",
+    "place_name": "Aleutians East Borough",
+    "version": "city-v2"
+  },
+  "55.20616,-162.70147": {
+    "full_place": "Cold Bay, Aleutians East Borough, Alaska, 99571, United States",
+    "place_name": "Cold Bay",
+    "version": "city-v2"
+  },
+  "55.33335,-160.50365": {
+    "full_place": "Sand Point, Aleutians East Borough, Alaska, United States",
+    "place_name": "Sand Point",
+    "version": "city-v2"
+  },
+  "55.36478,-160.49435": {
+    "full_place": "Sand Point, Aleutians East Borough, Alaska, United States",
+    "place_name": "Sand Point",
+    "version": "city-v2"
+  },
+  "56.27595,-158.03711": {
+    "full_place": "Lake and Peninsula Borough, Alaska, United States",
+    "place_name": "Lake and Peninsula Borough",
+    "version": "city-v2"
+  },
+  "56.29677,-158.40178": {
+    "full_place": "Chignik, Lake and Peninsula Borough, Alaska, 99564, United States",
+    "place_name": "Chignik",
+    "version": "city-v2"
+  },
+  "56.96064,-133.93273": {
+    "full_place": "Kake, Petersburg Borough, Alaska, 99830, United States",
+    "place_name": "Kake",
+    "version": "city-v2"
+  },
+  "57.00030,-134.14508": {
+    "full_place": "Petersburg Borough, Alaska, United States",
+    "place_name": "Petersburg Borough",
+    "version": "city-v2"
+  },
+  "57.11636,-135.39300": {
+    "full_place": "Sitka, Alaska, 99835, United States",
+    "place_name": "Sitka",
+    "version": "city-v2"
+  },
+  "57.44081,-134.90545": {
+    "full_place": "Sitka, Alaska, 99835, United States",
+    "place_name": "Sitka",
+    "version": "city-v2"
+  },
+  "57.49749,-134.57023": {
+    "full_place": "Angoon, Unorganized Borough, Alaska, 99820, United States",
+    "place_name": "Angoon",
+    "version": "city-v2"
+  },
+  "57.54230,-134.76016": {
+    "full_place": "Sitka, Alaska, 99835, United States",
+    "place_name": "Sitka",
+    "version": "city-v2"
+  },
+  "57.77551,-135.20701": {
+    "full_place": "Tenakee Springs, Unorganized Borough, Alaska, 99841, United States",
+    "place_name": "Tenakee Springs",
+    "version": "city-v2"
+  },
+  "57.78278,-134.92426": {
+    "full_place": "Unorganized Borough, Alaska, United States",
+    "place_name": "Unorganized Borough",
+    "version": "city-v2"
+  },
+  "57.79057,-152.37221": {
+    "full_place": "Aleksashkina, Kodiak Island Borough, Alaska, United States",
+    "place_name": "Aleksashkina",
+    "version": "city-v2"
+  },
+  "57.87730,-152.84320": {
+    "full_place": "Port Lions, Kodiak Island Borough, Alaska, 99550, United States",
+    "place_name": "Port Lions",
+    "version": "city-v2"
+  },
+  "57.90472,-152.72199": {
+    "full_place": "Kodiak Island Borough, Alaska, United States",
+    "place_name": "Kodiak Island Borough",
+    "version": "city-v2"
+  },
+  "57.95749,-136.22758": {
+    "full_place": "Pelican, Unorganized Borough, Alaska, 99832, United States",
+    "place_name": "Pelican",
+    "version": "city-v2"
+  },
+  "58.05036,-134.89335": {
+    "full_place": "Unorganized Borough, Alaska, United States",
+    "place_name": "Unorganized Borough",
+    "version": "city-v2"
+  },
+  "58.11647,-135.45983": {
+    "full_place": "Unorganized Borough, Alaska, United States",
+    "place_name": "Unorganized Borough",
+    "version": "city-v2"
+  },
+  "58.15854,-135.41633": {
+    "full_place": "Unorganized Borough, Alaska, United States",
+    "place_name": "Unorganized Borough",
+    "version": "city-v2"
+  },
+  "58.17295,-151.76039": {
+    "full_place": "Kodiak Island Borough, Alaska, United States",
+    "place_name": "Kodiak Island Borough",
+    "version": "city-v2"
+  },
+  "58.22227,-136.37723": {
+    "full_place": "Unorganized Borough, Alaska, United States",
+    "place_name": "Unorganized Borough",
+    "version": "city-v2"
+  },
+  "58.27838,-135.58814": {
+    "full_place": "Unorganized Borough, Alaska, United States",
+    "place_name": "Unorganized Borough",
+    "version": "city-v2"
+  },
+  "58.35180,-134.74890": {
+    "full_place": "Juneau, Alaska, United States",
+    "place_name": "Juneau",
+    "version": "city-v2"
+  },
+  "58.37985,-134.68205": {
+    "full_place": "Auke Bay, Juneau, Alaska, United States",
+    "place_name": "Juneau",
+    "version": "city-v2"
+  },
+  "58.39632,-135.72849": {
+    "full_place": "Gustavus, Unorganized Borough, Alaska, United States",
+    "place_name": "Gustavus",
+    "version": "city-v2"
+  },
+  "59.24124,-135.43332": {
+    "full_place": "Port Chilkoot, Haines, Haines Borough, Alaska, United States",
+    "place_name": "Haines",
+    "version": "city-v2"
+  },
+  "59.24529,-135.37566": {
+    "full_place": "Haines, Haines Borough, Alaska, United States",
+    "place_name": "Haines",
+    "version": "city-v2"
+  },
+  "59.28201,-135.46073": {
+    "full_place": "Tanani, Haines, Haines Borough, Alaska, United States",
+    "place_name": "Haines",
+    "version": "city-v2"
+  },
+  "59.44113,-151.72272": {
+    "full_place": "Kenai Peninsula Borough, Alaska, United States",
+    "place_name": "Kenai Peninsula Borough",
+    "version": "city-v2"
+  },
+  "59.44885,-135.32534": {
+    "full_place": "Skagway, Alaska, 99840, United States",
+    "place_name": "Skagway",
+    "version": "city-v2"
+  },
+  "59.45051,-136.36194": {
+    "full_place": "Haines Borough, Alaska, 99827, United States",
+    "place_name": "Haines Borough",
+    "version": "city-v2"
+  },
+  "59.52861,-151.63180": {
+    "full_place": "Kenai Peninsula Borough, Alaska, United States",
+    "place_name": "Kenai Peninsula Borough",
+    "version": "city-v2"
+  },
+  "59.54797,-139.73634": {
+    "full_place": "Yakutat, Alaska, United States",
+    "place_name": "Yakutat",
+    "version": "city-v2"
+  },
+  "59.56819,-139.85048": {
+    "full_place": "Yakutat, Alaska, United States",
+    "place_name": "Yakutat",
+    "version": "city-v2"
+  },
+  "60.09895,-147.87662": {
+    "full_place": "Unorganized Borough, Alaska, United States",
+    "place_name": "Unorganized Borough",
+    "version": "city-v2"
+  },
+  "60.10007,-149.44213": {
+    "full_place": "Seward, Kenai Peninsula Borough, Alaska, 99664, United States",
+    "place_name": "Seward",
+    "version": "city-v2"
+  },
+  "60.55790,-145.75596": {
+    "full_place": "Cordova, Unorganized Borough, Alaska, 99574, United States",
+    "place_name": "Cordova",
+    "version": "city-v2"
+  },
+  "60.68386,-147.05746": {
+    "full_place": "Unorganized Borough, Alaska, United States",
+    "place_name": "Unorganized Borough",
+    "version": "city-v2"
+  },
+  "60.77131,-148.13239": {
+    "full_place": "Unorganized Borough, Alaska, United States",
+    "place_name": "Unorganized Borough",
+    "version": "city-v2"
+  },
+  "60.77697,-148.68205": {
+    "full_place": "Whittier, Unorganized Borough, Alaska, 99693, United States",
+    "place_name": "Whittier",
+    "version": "city-v2"
+  },
+  "60.86307,-146.68225": {
+    "full_place": "Tatitlek, Unorganized Borough, Alaska, 99677, United States",
+    "place_name": "Tatitlek",
+    "version": "city-v2"
+  },
+  "61.00318,-146.76458": {
+    "full_place": "Unorganized Borough, Alaska, United States",
+    "place_name": "Unorganized Borough",
+    "version": "city-v2"
+  },
+  "61.12313,-146.36194": {
+    "full_place": "Valdez, Unorganized Borough, Alaska, 99686, United States",
+    "place_name": "Valdez",
+    "version": "city-v2"
+  },
+  "61.18078,-149.86816": {
+    "full_place": "Anchorage, Alaska, United States",
+    "place_name": "Anchorage",
+    "version": "city-v2"
+  },
+  "61.21754,-149.86694": {
+    "full_place": "Anchorage, Alaska, United States",
+    "place_name": "Anchorage",
+    "version": "city-v2"
+  },
+  "62.08671,-146.35123": {
+    "full_place": "Unorganized Borough, Alaska, United States",
+    "place_name": "Unorganized Borough",
+    "version": "city-v2"
+  },
+  "62.56966,-150.23262": {
+    "full_place": "Matanuska-Susitna Borough, Alaska, United States",
+    "place_name": "Matanuska-Susitna Borough",
+    "version": "city-v2"
+  },
+  "64.83290,-147.69678": {
+    "full_place": "South Fairbanks, Fairbanks, Fairbanks North Star Borough, Alaska, 99707, United States",
+    "place_name": "Fairbanks",
+    "version": "city-v2"
+  }
+}
