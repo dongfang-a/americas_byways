@@ -1,5 +1,25 @@
 # America's Byways KML For Google Earth
 
+## Interactive Web Map
+
+**[Open the interactive map](https://dongfang-a.github.io/americas_byways/)** · [Downloads and original landing page](https://dongfang-a.github.io/americas_byways/downloads.html)
+
+The website uses the same layout as the Sunset Highway map: a map-first view with mobile controls, route search, state and designation filters, and source notes. Select a route to load its complete stored geometry and endpoints. The original KML, Network Link and CSV download URLs remain available.
+
+The default overview uses a 100-meter display simplification of each original LineString separately. Full route detail files preserve all 617,978 source coordinates and 19,700 source segments, including existing gaps or jumps. This display conversion does not claim improved source accuracy or current road access.
+
+This is a static GitHub Pages site with no backend or API key. Leaflet is bundled under `vendor/` with its license. Basemap tiles are provided by OpenStreetMap, with visible attribution and normal browser caching; no tile prefetching is enabled.
+
+To regenerate the web data from the existing KML using the Python standard library:
+
+```text
+python scripts/build_web_data.py
+```
+
+`data/index.json` contains the route catalog and simplified overview. `data/routes/` contains per-route full geometry loaded on selection. The web-data preparation date is not a new verification date for the federal byway list.
+
+## Google Earth Files
+
 This repository provides a Google Earth KML overlay for **all 184 current FHWA America's Byways**.
 
 It includes both:
