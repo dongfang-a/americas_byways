@@ -74,8 +74,8 @@
   }
 
   function routePopup(route, loaded = false) {
-    const source = safeURL(route.sourceUrl);
-    return `<article><p class="popup-eyebrow">AMERICA’S BYWAYS · ${escapeHTML(route.id)}</p><h2 class="popup-title">${escapeHTML(route.name)}</h2><div class="popup-quality" style="--qcolor:${colors[route.designation] || colors['national-scenic-byway']}">${escapeHTML(labels[route.designation] || route.designation)}</div><p class="popup-note">${escapeHTML(stateNames(route).join(' · '))}</p><p class="popup-note">${escapeHTML(route.note || '路线几何来自已有KML资料；线位与当前通行情况需结合来源判断。')}</p><p class="popup-metrics">${loaded ? '完整路线已加载' : '正在加载完整路线…'} · ${Number(route.pointCount || 0).toLocaleString()} 个来源坐标</p>${source ? `<div class="popup-sources"><a href="${escapeHTML(source)}" target="_blank" rel="noopener">FHWA 路线资料 ↗</a></div>` : ''}<p class="popup-disclaimer">颜色表示公路类别；不作为驾驶导航。</p></article>`;
+    const source = safeURL(route.descriptionSourceUrl || route.sourceUrl);
+    return `<article><p class="popup-eyebrow">AMERICA’S BYWAYS · ${escapeHTML(route.id)}</p><h2 class="popup-title">${escapeHTML(route.name)}</h2><div class="popup-quality" style="--qcolor:${colors[route.designation] || colors['national-scenic-byway']}">${escapeHTML(labels[route.designation] || route.designation)}</div><p class="popup-note">${escapeHTML(stateNames(route).join(' · '))}</p><p class="popup-note">${escapeHTML(route.description || '')}</p><p class="popup-metrics">${loaded ? '完整路线已加载' : '正在加载完整路线…'} · ${Number(route.pointCount || 0).toLocaleString()} 个来源坐标</p>${source ? `<div class="popup-sources"><a href="${escapeHTML(source)}" target="_blank" rel="noopener">FHWA 路线资料 ↗</a></div>` : ''}<p class="popup-disclaimer">颜色表示公路类别；不作为驾驶导航。</p></article>`;
   }
 
   function removeEndpoints() { endpoints.forEach((marker) => map.removeLayer(marker)); endpoints = []; }
@@ -113,9 +113,9 @@
     $('selectedStates').textContent = stateNames(route).join(' · ');
     $('selectedDesignation').textContent = labels[route.designation] || route.designation;
     $('selectedDesignation').style.setProperty('--route-color', colors[route.designation]);
-    $('selectedNote').textContent = route.note || '路线保留已有KML几何。部分来源可能存在不连续段，当前道路开放状态请另行核实。';
+    $('selectedNote').textContent = route.description || '';
     $('selectedMetrics').innerHTML = `<div><dt>来源坐标</dt><dd>${Number(route.pointCount || 0).toLocaleString()}</dd></div><div><dt>原始线段</dt><dd>${Number(route.segmentCount || 0).toLocaleString()}</dd></div><div><dt>几何来源</dt><dd>${escapeHTML(route.geometrySource || '已有KML')}</dd></div>`;
-    const source = safeURL(route.sourceUrl);
+    const source = safeURL(route.descriptionSourceUrl || route.sourceUrl);
     $('selectedSource').hidden = !source;
     if (source) $('selectedSource').href = source;
     $('detailMessage').textContent = '正在加载完整路线…';
@@ -253,7 +253,7 @@
     showStatus('loading', '正在展开美国风景公路', '载入路线索引与全国概览…');
     try {
       if (!map) initMap();
-      const response = await fetch('./data/index.json', { headers: { Accept: 'application/json' } });
+      const response = await fetch('./data/index.json?v=byway-intros-1', { headers: { Accept: 'application/json' } });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       renderCatalog(await response.json()); showStatus('ready');
     } catch (error) {

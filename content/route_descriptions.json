@@ -1,0 +1,922 @@
+{
+  "2001": {
+    "description": "从洛根通往花园城的风景道沿洛根河穿过峡谷，浓密森林、茂盛草甸与崎岖岩石景观一路相伴。四季变化为河谷带来不同色彩，尤其以秋日景色引人驻足。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2001",
+    "reviewed": "2026-11-15"
+  },
+  "2008": {
+    "description": "沿 Uinta 山脉东坡穿过 Ashley 国家森林与 Flaming Gorge 游憩区，观察原生栖息地中的野生动物。早期探险者、山地猎人、定居者和牛仔的故事，为自然风景增添西部文化背景。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2008",
+    "reviewed": "2026-11-15"
+  },
+  "2012": {
+    "description": "内博环线从尼法通往佩森，沿途可欣赏瓦萨奇山脉与内博峰的开阔山景。低地、高山针叶林、红色岩层和灰色砂岩峭壁相互交替，Devil’s Kitchen 与内博山荒野地区展现出丰富的地貌变化。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2012",
+    "reviewed": "2026-11-15"
+  },
+  "2020": {
+    "description": "Scenic Byway 12穿越美国西部偏远的峡谷、台地和山谷，沿途地貌随海拔变化不断转换。自然景观与考古、历史和地方文化资源相互交织，展现犹他州这片地区的多重特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2020",
+    "reviewed": "2026-11-15"
+  },
+  "2023": {
+    "description": "这条道路由犹他州干旱的大盆地升向高原，串起Parowan、Panguitch等拓荒城镇。沿途可见熔岩地貌、Panguitch Lake和Cedar Breaks色彩丰富的天然剧场，文化遗迹与高山景观相互辉映。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2023",
+    "reviewed": "2026-11-15"
+  },
+  "2032": {
+    "description": "拉斯维加斯大道是以夜景著称的城市风景道，密集的霓虹与灯光构成鲜明的视觉特色。行经 Strip，可以感受拉斯维加斯的历史、热闹氛围与独特的路边文化。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2032",
+    "reviewed": "2026-11-15"
+  },
+  "2037": {
+    "description": "帕耶特河风景道在丘陵、山谷、峡谷和森林之间蜿蜒，开阔谷地提供广远的视野。Cascade Lake 与群山林木环绕的 Payette Lake 是沿线亮点，也为漂流、皮划艇、露营和垂钓提供环境。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2037",
+    "reviewed": "2026-11-15"
+  },
+  "2043": {
+    "description": "这条风景道循着刘易斯与克拉克远征寻找西北通道的足迹，穿过爱达荷中北部的河流、深谷与崎岖山地。这里也是内兹珀斯人的土地，自然景色、地方文化和户外体验相互交织。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2043",
+    "reviewed": "2026-11-15"
+  },
+  "2044": {
+    "description": "庞多雷风景道围绕庞多雷湖、克拉克福克河和周边森林展开，水域与山林交织出鲜明的季节景色。沿途历史元素与休闲活动，为欣赏这片湖河走廊提供不同的探索方式。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2044",
+    "reviewed": "2026-11-15"
+  },
+  "2049": {
+    "description": "从爱达荷州早期城镇Franklin出发，沿Bear River追寻移民、摩门教聚落和早期通往黄石的道路历史。沿线可见俄勒冈古道车辙、Chesterfield旧镇，以及重要的地质与历史遗址。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2049",
+    "reviewed": "2026-11-15"
+  },
+  "2050": {
+    "description": "这条道路纪念1965年由马丁·路德·金等人领导的Selma至Montgomery游行。路线穿过Selma街道和沿途乡村，联系起游行者曾经过、停宿的地点，承载美国民权运动的重要历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2050",
+    "reviewed": "2026-11-15"
+  },
+  "2057": {
+    "description": "这条道路沿Horseblock和Cheaha山地前进，穿过Talladega National Forest。岩石露头、乡村聚落与山景交错，通往Cheaha State Park及阿拉巴马州最高峰一带。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2057",
+    "reviewed": "2026-11-15"
+  },
+  "2059": {
+    "description": "道路穿过高地沙漠与森林，其历史可追溯至原住民步道，后来逐渐成为骑马和马车通道。探矿者、开拓者、伐木者与牧场居民的经历，为沿途风景留下了不同的时代印记。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2059",
+    "reviewed": "2026-11-15"
+  },
+  "2061": {
+    "description": "杰梅兹山道把奇特地质景观、古代原住民遗址与普韦布洛村落串联起来，也保留着伐木、采矿和牧场文化的痕迹。沿线的班德利尔遗址、Soda Dam、Battleship Rock 与山间温泉，展现自然和人类活动交织的历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2061",
+    "reviewed": "2026-11-15"
+  },
+  "2062": {
+    "description": "穿过 Lincoln 国家森林的草原与茂密松林，感受山地景观和西部历史。沿线的 Lincoln 古镇与比利小子、执法官 Pat Garrett 的故事相连，为自然风景增添了鲜明的人物记忆。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2062",
+    "reviewed": "2026-11-15"
+  },
+  "2063": {
+    "description": "这条环线串联华盛顿州和太平洋西北部的多种景观：雾气中的森林、锯齿状高峰、Puget Sound 海面与哥伦比亚河。果园、葡萄园和农田与山海风光交替出现。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2063",
+    "reviewed": "2026-11-15"
+  },
+  "2064": {
+    "description": "这条华盛顿州风景道穿越White Pass，串联针叶林、野花草甸、湖泊与瀑布。沿途可眺望雷尼尔山等喀斯喀特火山，并由西侧湿润森林过渡到东侧开阔草原，展现丰富的野生动物栖息地。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2064",
+    "reviewed": "2026-11-15"
+  },
+  "2065": {
+    "description": "这条内陆“皇家大道”承载着西班牙殖民时期的行旅、物资与文化交流历史。沿线普韦布洛社区的传统工艺，以及多元文化与地貌，共同展现 El Camino Real 的历史层次。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2065",
+    "reviewed": "2026-11-15"
+  },
+  "2066": {
+    "description": "沿 Bayou Teche 蜿蜒的水乡走廊，探索路易斯安那州中南部的自然景观与沿河文化。原住民、阿卡迪亚人及西班牙后裔的故事，展现了这片地区多元的历史与生活传统。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2066",
+    "reviewed": "2026-11-15"
+  },
+  "2091": {
+    "description": "从沙漠湖泊延伸到森林山地，探索阿帕切文化与杰罗尼莫相关的温泉历史。沿途曾随金银开采兴衰的矿业小镇，也保存着鲜明的西部边疆记忆。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2091",
+    "reviewed": "2026-11-15"
+  },
+  "2092": {
+    "description": "这条道路串联矿工、拓荒者、原住民与西班牙探险者留下的历史痕迹。跨越大陆分水岭、接近Gila River并探访古代遗址，可在宁静山地间感受不同年代的文化交汇。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2092",
+    "reviewed": "2026-11-15"
+  },
+  "2094": {
+    "description": "Turquoise Trail连接Albuquerque与Santa Fe，沿途分布独特地质景观、Cibola National Forest和Sandia Mountain Wilderness。Madrid与Los Cerrillos等艺术社区，则为这条古老通道增添人文色彩。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2094",
+    "reviewed": "2026-11-15"
+  },
+  "2095": {
+    "description": "作为通往高草草原的门户，这条路线展现大平原开阔连绵的草地景象。沿途历史遗址与小镇，让人同时感受草原风光和美国西部的地方记忆。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2095",
+    "reviewed": "2026-11-15"
+  },
+  "2101": {
+    "description": "San Juan山脉的高峰与散布古代原住民村落遗迹的山坡，构成这条风景道的自然与历史背景。沿线维多利亚时代小镇、温泉和窄轨铁路，让山地旅程兼具文化与休闲特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2101",
+    "reviewed": "2026-11-15"
+  },
+  "2102": {
+    "description": "道路攀上林线以上的高山苔原，沿途观景点展现落基山脉的高峰景色。这里的生态与气候带有类似北极圈地区的特点，让旅程呈现鲜明的高海拔自然环境。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2102",
+    "reviewed": "2026-11-15"
+  },
+  "2103": {
+    "description": "从 Plateau Canyon 谷底攀向 Grand Mesa 的常绿森林，沿途有湖泊、野花草甸、白杨与松林。Lands End 观景点可俯瞰展开在下方的 Grand Valley，呈现高原与谷地的鲜明对照。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2103",
+    "reviewed": "2026-11-15"
+  },
+  "2106": {
+    "description": "沿科罗拉多河穿过水库、葱郁牧场与狭窄峡谷，铁路在部分河段相伴而行。沿途可观察野生动物，欣赏山地景色与河流塑造的地质地貌。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2106",
+    "reviewed": "2026-11-15"
+  },
+  "2108": {
+    "description": "沿早期人物走过的山地通道，欣赏 Sangre de Cristo 山脉、野花草地、矮松山麓与金色白杨林。自然风景和探险、边疆人物的历史，共同构成这条路线的特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2108",
+    "reviewed": "2026-11-15"
+  },
+  "2109": {
+    "description": "沿昔日通往采金营地的铁路与驿车路线，探索矿业、化石遗址及历史社区。Shelf Road 和 Phantom Canyon 等峡谷通道，把崎岖地形与当地繁盛一时的采金历史连接起来。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2109",
+    "reviewed": "2026-11-15"
+  },
+  "2119": {
+    "description": "这条高山风景道穿行于落基山脉高地，串联Leadville等历史矿业与铁路城镇。沿线旧矿营地记录着采矿传统，道路两次跨越大陆分水岭，并沿Arkansas River展开山地景色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2119",
+    "reviewed": "2026-11-15"
+  },
+  "2141": {
+    "description": "历史悠久的哥伦比亚河公路以河景观景点和瀑布著称，包括壮观的马尔特诺马瀑布。春季野花为沿途增添色彩，河流沿线还承载着刘易斯与克拉克远征，以及俄勒冈古道早期交通的故事。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2141",
+    "reviewed": "2026-11-15"
+  },
+  "2142": {
+    "description": "俄勒冈内陆风景道以沼泽、山地、岩壁和连绵开阔的远景，呈现粗犷自然的土地风貌。独立的乡野生活与紧密的社区关系，为这片带着鼠尾草气息的景观增添人文特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2142",
+    "reviewed": "2026-11-15"
+  },
+  "2143": {
+    "description": "俄勒冈太平洋海岸风景道从阿斯托里亚向南通往布鲁金斯，沿途经过河口湿地、海边峭壁、农业谷地与风塑沙丘。小镇、博物馆、历史桥梁和灯塔，为连续变化的海岸景色增添地方故事。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2143",
+    "reviewed": "2026-11-15"
+  },
+  "2144": {
+    "description": "穿行俄勒冈州中部的山地、湖泊与森林，沿途景观由火山活动和冰川共同塑造。熔岩流、高山湖泊与草甸是主要看点，古老行旅路线也为这片自然风景增添历史层次。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2144",
+    "reviewed": "2026-11-15"
+  },
+  "2145": {
+    "description": "路线在河岸、山巅与谷地之间穿行，呈现玄武岩峭壁、肥沃田野和雪峰环绕的开阔景色。沿途可了解俄勒冈古道的历史，探访铸造工坊、画廊和博物馆，并欣赏蛇河深入赫尔斯峡谷的壮丽地貌。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2145",
+    "reviewed": "2026-11-15"
+  },
+  "2147": {
+    "description": "沿途景观从橡树林覆盖的缓丘，逐渐转为高大的针叶林、激流与峡谷中的熔岩地貌。道路伴随Upper Rogue和North Umpqua两条河流延伸，展现丰富的河谷与山地景色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2147",
+    "reviewed": "2026-11-15"
+  },
+  "2148": {
+    "description": "这条穿越喀斯喀特山区的路线，以黑色熔岩原与白雪山峰的强烈对比著称。清澈湖泊映照群山，Sahalie 和 Koosah 等瀑布又为沿途的火山地貌增添水景。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2148",
+    "reviewed": "2026-11-15"
+  },
+  "2161": {
+    "description": "沿古老切罗基路径穿过桃园与村落，远处是蓝岭山地陡峭的山缘。Cowpens 古战场与 Lake Keowee 等地点，把当地自然风光与历史记忆串联起来。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2161",
+    "reviewed": "2026-11-15"
+  },
+  "2162": {
+    "description": "这条风景道展现Savannah River沿线的乡村景色与美国南方生活。地方烧烤传统、垂钓文化，以及有关独立战争和内战的故事，让自然旅程也成为了解区域历史与人情的途径。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2162",
+    "reviewed": "2026-11-15"
+  },
+  "2176": {
+    "description": "穿过被侵蚀塑形的丘陵、流动沙丘和低于海平面的谷地，走近死亡谷广阔的荒漠景观。罕见的沙漠野生动物及历史文化遗址，为这里强烈的地形对比增添更多看点。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2176",
+    "reviewed": "2026-11-15"
+  },
+  "2187": {
+    "description": "爱荷华西部的黄土丘陵沿密苏里河谷形成狭长地带，风成粉砂塑造出草原与林地覆盖的独特坡地。公园、保护地与米尔克里克、格伦伍德文化的考古遗址，让自然地貌与古代居民的故事相互交织。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2187",
+    "reviewed": "2026-11-15"
+  },
+  "2211": {
+    "description": "明尼苏达河谷的阔叶林、古老花岗岩露头与草原草地，呈现河流沿岸多样的自然景观。公园、博物馆和历史遗址讲述原住民与拓荒者的生活，也让游客感受农业、文化和草原生态的联系。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2211",
+    "reviewed": "2026-11-15"
+  },
+  "2226": {
+    "description": "沿冰川补给的 White River 从 Enumclaw 翻越 Chinook Pass，进入 Naches 谷地。雷尼尔山、茂密森林、高山草甸、瀑布与玄武岩地貌，在沿途依次展现。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2226",
+    "reviewed": "2026-11-15"
+  },
+  "2228": {
+    "description": "从西雅图沿 I-90 向东，路线穿过田园河谷、葱郁森林与壮阔山地，沿途历史城镇提供森林散步和徒步的机会。越过喀斯喀特山脉后，景色转向较干燥的内陆，旧采煤城镇仍留有拓荒时期的记忆。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2228",
+    "reviewed": "2026-11-15"
+  },
+  "2231": {
+    "description": "道路沿Skykomish River从普吉特海湾地区进入喀斯喀特山脉，在Stevens Pass之后降入Wenatchee河谷。松林、果园与历史社区依次展开，体现了山地地形如何塑造当地生活。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2231",
+    "reviewed": "2026-11-15"
+  },
+  "2240": {
+    "description": "这条风景道将小镇、艺术画廊、古董店、阿米什文化与洞穴景观串在一起，展现当地乡村生活和历史。沿线的公园、森林以及鲁特河与密西西比河，也提供划船、骑行、观赏野生动物和摄影的空间。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2240",
+    "reviewed": "2026-11-15"
+  },
+  "2243": {
+    "description": "环绕明尼阿波利斯的城市景观道路，将公园、步道、湖泊与瀑布串成连续的绿色空间。Chain of Lakes、Lake Nokomis、Lake Hiawatha 和 Minnehaha Falls 展示了这座城市深厚的公园传统。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2243",
+    "reviewed": "2026-11-15"
+  },
+  "2256": {
+    "description": "道路穿过白山地区三个历史山口，沿途展现新英格兰崎岖的山地景色。村落、国家森林、山间瀑流与Appalachian Trail交织其间，还可眺望Mount Washington及其历史酒店。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2256",
+    "reviewed": "2026-11-15"
+  },
+  "2260": {
+    "description": "这条纪念哈丽特·塔布曼与地下铁路的风景道，串联起秘密道路、水道和藏身之地所承载的自由故事。切萨皮克地区保存良好的农田、水乡与历史村镇，让人接近塔布曼成长和争取自由时的生活环境。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2260",
+    "reviewed": "2026-11-15"
+  },
+  "2261": {
+    "description": "穿行切萨皮克湾东岸的历史村镇、农田与水岸景观，感受渔民、造船者和农民世代形成的生活方式。从 Chesapeake and Delaware Canal 至 Smith Island，沿线保留了鲜明的海湾文化。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2261",
+    "reviewed": "2026-11-15"
+  },
+  "2271": {
+    "description": "Charles Street 串联巴尔的摩内港、Charles Center 与风格各异的城市和郊区社区。沿街建筑与街区变化呈现这座城市数百年的发展，也展示内港城市更新留下的印记。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2271",
+    "reviewed": "2026-11-15"
+  },
+  "2278": {
+    "description": "历史国家公路是美国最早由联邦资助建设的跨州公路，曾为人员、货物与向西拓展提供重要通道。今天沿线的老客栈、收费站、餐馆和汽车旅馆，仍呈现不同年代的公路旅行生活。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2278",
+    "reviewed": "2026-11-15"
+  },
+  "2279": {
+    "description": "沿密西西比河串联明尼苏达北部至墨西哥湾的河岸城镇与城市。原住民文化、早期法国航行者、反奴隶制“地下铁路”及历史遗址，展现大河如何连接不同人群、资源与时代。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2279",
+    "reviewed": "2026-11-15"
+  },
+  "2280": {
+    "description": "贯穿弗吉尼亚州与北卡罗来纳州的蓝岭山地，以层叠山谷、宁静田园和瀑布为特色。沿途花木与林叶随季节变换，为山地景观带来不同色彩。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2280",
+    "reviewed": "2026-11-15"
+  },
+  "2281": {
+    "description": "穿越蒙大拿与怀俄明两州崎岖的 Beartooth 山脉，通往黄石国家公园东北入口。高山道路沿途以壮阔山景、野生动物和多样户外体验为特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2281",
+    "reviewed": "2026-11-15"
+  },
+  "2282": {
+    "description": "沿阿巴拉契亚山脉的森林高地行驶，欣赏开阔远景与绚丽秋叶。切罗基文化和早期定居者的历史贯穿沿线，南阿巴拉契亚的步道与野餐地点让人进一步走近这片山林。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2282",
+    "reviewed": "2026-11-15"
+  },
+  "2285": {
+    "description": "纳奇兹古道曾是原住民、船夫、邮差和军人往来的重要通路，连接密西西比地区与早期美国。今天沿线穿过森林、柏树沼泽和农田，将田纳西的岩石丘陵、阿拉巴马的棉田与密西西比乡野串在一起。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2285",
+    "reviewed": "2026-11-15"
+  },
+  "2286": {
+    "description": "这条富有历史的风景道沿俄亥俄河岸蜿蜒，乡野与河畔小镇之间不断展开河流景色。沿线故事从原住民居住延伸至向西定居、交通运输和工业化，呈现河流如何影响地区发展。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2286",
+    "reviewed": "2026-11-15"
+  },
+  "2287": {
+    "description": "Santa Fe Trail是美国早期重要贸易通道之一，沿途堡垒、城镇和山口记录了向西拓展的历史。风景从崎岖山地延伸到平原，串联Bent’s Fort、Fort Union、Pecos和Santa Fe等历史地点。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2287",
+    "reviewed": "2026-11-15"
+  },
+  "2290": {
+    "description": "沿高地山脊与辽阔草原前行，远处是 Flaming Gorge 水库碧绿的水面。彩色岩层、深切峡谷与开阔天空，展示 Green River 流域经长期侵蚀形成的壮阔地貌。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2290",
+    "reviewed": "2026-11-15"
+  },
+  "2301": {
+    "description": "沿着加利福尼亚海岸前行，风景道串联海风中的柏树、雾气笼罩的悬崖和太平洋拍岸的浪涛。崎岖峡谷、高耸红杉以及海狮等海洋生物，共同展现Big Sur海岸的自然特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2301",
+    "reviewed": "2026-11-15"
+  },
+  "2302": {
+    "description": "道路横越Sierra Nevada，呈现冰川雕刻的花岗岩山峰、清澈湖泊与野花草甸。常绿森林和巨杉林地穿插其间，展现这片山地既宁静又崎岖的自然景观。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2302",
+    "reviewed": "2026-11-15"
+  },
+  "2305": {
+    "description": "在 Sierra 山地穿过冰川雕刻的谷地、火山峰、高山湖泊与河流。Grover Hot Springs 和 Calaveras Big Trees 两座州立公园分居路线两端，沿线展现鲜明的高山荒野景色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2305",
+    "reviewed": "2026-11-15"
+  },
+  "2343": {
+    "description": "这条走廊从宾夕法尼亚的葛底斯堡延伸至弗吉尼亚的蒙蒂塞洛，串联马里兰、宾夕法尼亚与弗吉尼亚的历史景观。革命战争时期的交通、地下铁路与南北战争在这里留下丰富遗迹，映照美国历史的重要转折。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2343",
+    "reviewed": "2026-11-15"
+  },
+  "2345": {
+    "description": "道路沿Kentucky Lake与Lake Barkley之间的山脊穿行，起伏森林与湖湾共同构成Land Between the Lakes的景色。四季林相变化、历史解说设施和多样水陆活动，呈现这片湖间地区的自然与文化。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2345",
+    "reviewed": "2026-11-15"
+  },
+  "2346": {
+    "description": "位于俄克拉荷马州东部 Ozark 山麓，以起伏丘陵、森林和清澈的 Illinois River 为背景。沿线建筑、博物馆与文化活动，讲述切罗基人经历“泪水之路”后重建家园、延续传统的故事。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2346",
+    "reviewed": "2026-11-15"
+  },
+  "2348": {
+    "description": "林肯遗产风景道穿行肯塔基丘陵与历史社区，串联林肯的成长足迹、美国内战、宗教和波旁威士忌传统。沿线的修道院、酿酒文化与历史遗迹，从不同侧面呈现肯塔基和美国早期生活。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2348",
+    "reviewed": "2026-11-15"
+  },
+  "2442": {
+    "description": "沿阿拉巴马湾岸探索海滩、沙丘、湿地与以水为生的社区。Mobile Bay 湾口的 Morgan、Gaines 两座堡垒，以及 Dauphin Island 和 Bon Secour 等保护地，共同讲述海岸的军事历史与生态故事。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2442",
+    "reviewed": "2026-11-15"
+  },
+  "2451": {
+    "description": "在典型的新英格兰城镇之间穿行，沿路可见殖民时期宅邸、教堂、石墙与公共会堂。枫树、松林和冰川遗留的巨石点缀田野，保留着鲜明的乡村历史风貌。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2451",
+    "reviewed": "2026-11-15"
+  },
+  "2452": {
+    "description": "梅里特公园大道把道路工程与艺术设计融入自然环境，沿线桥梁保留着装饰艺术等鲜明的时代风格。春秋两季的繁茂植被，为这条历史公园大道增添不断变化的色彩。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2452",
+    "reviewed": "2026-11-15"
+  },
+  "2454": {
+    "description": "沿路易斯安那州西南部的沼泽、草原与墨西哥湾海岸穿行。短吻鳄、水鸟、野花和独特的沿海景观，让这条被称为“路易斯安那荒野”的路线充满自然观察的乐趣。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2454",
+    "reviewed": "2026-11-15"
+  },
+  "2455": {
+    "description": "蜿蜒穿过北部林地的湖泊、森林、沼泽与起伏丘陵，沿途适合感受宁静的自然景色。秋季糖枫、橡树、白杨与桦树变换色彩，是这条路线的一大特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2455",
+    "reviewed": "2026-11-15"
+  },
+  "2456": {
+    "description": "太浩湖东岸公路以清澈湖水、高耸松林和雪山背景著称，湖光山色在四季呈现不同风貌。沿线还联系着旧驿马快递道，以及瓦肖族神圣土地的历史与文化。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2456",
+    "reviewed": "2026-11-15"
+  },
+  "2457": {
+    "description": "Pyramid Lake坐落在荒漠盆地中，宽阔湖面在绿色、蓝绿色与深蓝之间变换，与周围干旱地貌形成鲜明对照。湖区也是多种迁徙水鸟的重要停歇地。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2457",
+    "reviewed": "2026-11-15"
+  },
+  "2458": {
+    "description": "康卡马格斯风景道穿行白山腹地，沿山体侧翼展开一连串山景与观景点。Russell Colbath 历史遗址介绍早期定居生活，Forest Discovery Trail 则让游客在真实森林中了解生态。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2458",
+    "reviewed": "2026-11-15"
+  },
+  "2459": {
+    "description": "道路在花岗岩尖峰与松林山地间盘旋，蜿蜒穿过岩石隧道和螺旋形桥梁。沿途可观赏拉什莫尔山、Sylvan Lake，以及针眼岩和Cathedral Spires等独特岩石景观。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2459",
+    "reviewed": "2026-11-15"
+  },
+  "2460": {
+    "description": "这条公路深入莫农加希拉国家森林的山地，阔叶林覆盖起伏坡地，高处则点缀着深色云杉。狭窄河谷、清澈溪流与 Cranberry Glades 植物区、Summit Lake 和 Hills Creek 瀑布，共同展现这片森林的自然风貌。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2460",
+    "reviewed": "2026-11-15"
+  },
+  "2462": {
+    "description": "米尔斯通河谷保留着运河时代、美国独立战争及早期荷兰与美国定居文化的痕迹，历史街区和村落沿途分布。附近的特拉华与拉里坦运河及纤道，将划船、步行、骑行和观鸟融入这片河谷景观。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2462",
+    "reviewed": "2026-11-15"
+  },
+  "2463": {
+    "description": "沿新泽西州的德拉瓦河谷串联河岸城镇、历史磨坊与农场。德拉瓦—拉里坦运河及 Washington Crossing 等遗址，展现河流、运河和道路在美国历史中的共同作用。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2463",
+    "reviewed": "2026-11-15"
+  },
+  "2474": {
+    "description": "这条路线以恐龙遗迹为主题，串联可观察骨骼与足迹化石的地点，以及介绍恐龙的博物馆。沿途把地表遗迹与展览结合起来，帮助人们认识恐龙生活过的世界。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2474",
+    "reviewed": "2026-11-15"
+  },
+  "2475": {
+    "description": "这条海岸走廊把Hearst Castle、Morro河口与太平洋景观联系在一起。沿途既有文化地标，也有适合徒步、骑行和皮划艇活动的自然环境，呈现多层次的海岸体验。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2475",
+    "reviewed": "2026-11-15"
+  },
+  "2477": {
+    "description": "沿佛罗里达海岸串起圣奥古斯丁的历史街景、灯塔与 Matanzas 水道。海滨风光与古城建筑交织，呈现这片海岸数百年来吸引旅人与定居者的历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2477",
+    "reviewed": "2026-11-15"
+  },
+  "2479": {
+    "description": "Lakes to Locks Passage 以相互连通的水道为线索，展现曾影响北美发展的交通与生活网络。沿途小城、田园景观和阿迪朗达克村镇，将历史、自然与地方文化融入步行、骑行或水上探索之中。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2479",
+    "reviewed": "2026-11-15"
+  },
+  "2482": {
+    "description": "肯塔基州Red River Gorge以天然石拱、洞穴、峭壁、沟壑与流水地貌著称。风景道带领人们进入这片兼具地质价值与自然景观的峡谷地区，感受河流和岩层塑造的多样景致。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2482",
+    "reviewed": "2026-11-15"
+  },
+  "2483": {
+    "description": "从 Anchorage 向阿拉斯加内陆延伸，沿途地貌记录着冰川塑造山地的力量。自然景观、历史地点与路边旅舍相伴，讲述人们如何在这条崎岖走廊定居和生活。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2483",
+    "reviewed": "2026-11-15"
+  },
+  "2485": {
+    "description": "道路沿Winding Stair和Rich Mountains的森林山脊起伏，连接阿肯色州Mena与俄克拉荷马州Talihina。近处绿林、远山蓝雾与季节色彩交织，展现Ouachita National Forest的山地全景。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2485",
+    "reviewed": "2026-11-15"
+  },
+  "2486": {
+    "description": "这条跨越美国与加拿大的环线围绕塞尔柯克山脉展开，清澈湖河、雪峰和山林中的野生动物构成主要景观。沿途小镇以各自的历史、节庆和山水环境，为旅程增添地方文化色彩。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2486",
+    "reviewed": "2026-11-15"
+  },
+  "2487": {
+    "description": "沿康涅狄格河探索新英格兰的田野与森林，了解大陆碰撞、冰川及人类共同塑造的景观。Abenaki 原住民、殖民定居、农耕与铁路历史，为河岸风光增添丰富层次。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2487",
+    "reviewed": "2026-11-15"
+  },
+  "2488": {
+    "description": "沿纽约州和宾夕法尼亚州的五大湖与圣劳伦斯水道前行，串联尼亚加拉瀑布、千岛群岛、灯塔和港口。1812 年战争遗址、农田与自然景观，展现这条滨水走廊丰富的历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2488",
+    "reviewed": "2026-11-15"
+  },
+  "2489": {
+    "description": "以“母亲之路”闻名的历史66号公路，承载着美国公路旅行的记忆与文化。它的历史气息和沿路风情，吸引旅人放慢脚步，体会开放道路所代表的自由与探索精神。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2489",
+    "reviewed": "2026-11-15"
+  },
+  "2555": {
+    "description": "沿 US 1 从 Key Largo 通往 Key West，穿过大西洋与墨西哥湾环绕的群岛。海景、日落、垂钓与潜水文化之外，巴哈马和古巴传统也深深影响着这里的建筑、音乐和饮食。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2555",
+    "reviewed": "2026-11-15"
+  },
+  "2566": {
+    "description": "这条历史通道见证了美国早期向西拓展的历程与内战时期的往来，Cumberland Gap National Historical Park保留着相关历史。沿线还串联乡村音乐胜地Renfro Valley，以及以手工艺闻名的Berea。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2566",
+    "reviewed": "2026-11-15"
+  },
+  "2567": {
+    "description": "这条肯塔基东部文化走廊，以乡村音乐为线索串起地方历史。沿途还可了解原住民文化、早期定居、煤矿产业、手工艺和内战往事，感受多种传统交织的地区风貌。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2567",
+    "reviewed": "2026-11-15"
+  },
+  "2587": {
+    "description": "从俄勒冈州Crater Lake National Park到加利福尼亚州Lassen Volcanic National Park，风景道串联鲜明的火山地貌。古老地质力量塑造的山地湖泊，与沿线小镇、野生动物和观鸟资源相互辉映。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2587",
+    "reviewed": "2026-11-15"
+  },
+  "2588": {
+    "description": "沿 Crowley’s Ridge 欣赏山脊、丘陵、野花与多样的动植物群落。Chalk Bluff 的自然景观和内战历史，以及 St. Francis 国家森林，共同构成沿途的自然与人文看点。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2588",
+    "reviewed": "2026-11-15"
+  },
+  "2593": {
+    "description": "道路穿越辽阔的鼠尾草地，沿Snake River峡谷边缘提供开阔视野。Owyhee Mountains、Boise Front与猛禽保护区构成远近层次，在Dedication Point还可俯瞰河流两岸的峭壁。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2593",
+    "reviewed": "2026-11-15"
+  },
+  "2596": {
+    "description": "这条风景道穿过克罗克里克、下布鲁尔、夏延河与立石等拉科塔苏族保留地。沿途纪念标志、博物馆与神圣地点承载着苏族文化遗产，让旅人从原住民的视角认识这片土地的历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2596",
+    "reviewed": "2026-11-15"
+  },
+  "2597": {
+    "description": "道路穿过科罗拉多高原多样的地貌，带领人们了解Four Corners地区原住民长期居住的历史。Mesa Verde National Park、Monument Valley Tribal Park与Four Corners Monument是沿线的重要地点。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2597",
+    "reviewed": "2026-11-15"
+  },
+  "2598": {
+    "description": "霍金山风景道深入俄亥俄东南部的山丘与河谷，串联州立公园中分散的悬崖、岩屋、瀑布和洞穴景点。砂岩地貌、浓密森林与当地社区相互映衬，展现这一地区鲜明的自然与人文景观。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2598",
+    "reviewed": "2026-11-15"
+  },
+  "2599": {
+    "description": "佛罗里达的这条路线由森林与海岸两条走廊组成。沿途从松林、湿地与早期农场遗迹，延伸至屏障岛、沙滩和海湾；Apalachicola 森林与 Wakulla Springs 展示了当地独特的生态和地质景观。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/2599",
+    "reviewed": "2026-11-15"
+  },
+  "6334": {
+    "description": "道路穿过古老Wichita Mountains的受保护谷地，草原与林地共同构成多样生态。Wichita Mountains Wildlife Refuge及其美洲野牛保护历史，是了解当地自然与保育传统的重要线索。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/6334",
+    "reviewed": "2026-11-15"
+  },
+  "10246": {
+    "description": "连接洛杉矶与帕萨迪纳，穿过 Arroyo Seco 的工艺美术历史景观。柔和弯道、繁茂绿化和沿途景致延续了早期景观道路理念，也见证加州现代高速公路设计的形成。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/10246",
+    "reviewed": "2026-11-15"
+  },
+  "10345": {
+    "description": "米德兰古道从州议会大厦出发，经过布克·华盛顿的童年居地马尔登，延伸至殖民时期小镇刘易斯堡。沿途可欣赏新河峡谷与 Hawks Nest 州立公园的山地急流景观，感受西弗吉尼亚的自然与历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/10345",
+    "reviewed": "2026-11-15"
+  },
+  "10346": {
+    "description": "沿山谷与群山探索煤炭产业留下的工业遗产。煤矿公司城镇、装卸煤设施、铁路建筑和复垦矿地，共同呈现采煤业如何改变当地景观、社区与生活方式。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/10346",
+    "reviewed": "2026-11-15"
+  },
+  "10351": {
+    "description": "这条历史道路在美国内战初期战役中发挥过重要作用，沿线保留战场遗址与历史小镇。森林、小农场和山地远景之间，还可体验河流、步道与山地铁路所呈现的区域风貌。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/10351",
+    "reviewed": "2026-11-15"
+  },
+  "10390": {
+    "description": "Seward Highway连接Anchorage与Seward方向的阿拉斯加中南部景观，沿途可见锯齿状山峰、高山草甸、峡湾与清澈湖泊。白鲸等野生动物和冬季犬队，也体现了这片地区独特的自然与生活环境。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/10390",
+    "reviewed": "2026-11-15"
+  },
+  "10393": {
+    "description": "密苏里河、密西西比河与伊利诺伊河在这一地区汇流，形成开阔的河流平原。十八世纪河畔城镇、岛屿、沙洲与蜿蜒水面，衬托着森林覆盖的石灰岩峭壁，也呈现密西西比河的航运与生态价值。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/10393",
+    "reviewed": "2026-11-15"
+  },
+  "10465": {
+    "description": "公路穿过凯巴布高原的草甸、黄松与混合针叶林，逐步抵达大峡谷壮观的北缘。开阔峡谷景色与沿线丰富的野生动物，让这段从森林走向峡谷边缘的旅程充满变化。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/10465",
+    "reviewed": "2026-11-15"
+  },
+  "10501": {
+    "description": "俄亥俄与伊利运河走廊通过步道、铁路、运河城镇和多族群街区，展现地区过去与现在的生活故事。沿线兼有仍在使用的河道、工业景观与生机盎然的自然区域，适合从多种方式探索地方历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/10501",
+    "reviewed": "2026-11-15"
+  },
+  "10781": {
+    "description": "风景道沿Au Sable河谷展开，周围是Huron National Forest的森林景观。高处河岸提供开阔视野，四季变化带来秋色与冬日林地等不同景致，也为徒步、划舟和观鸟提供自然背景。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/10781",
+    "reviewed": "2026-11-15"
+  },
+  "11180": {
+    "description": "保罗·班扬风景道的湖泊与森林，提供亲近自然和探索户外的多样空间。当地把保罗·班扬民间传说的幽默融入景点和活动，让湖区风景带上鲜明的地方故事。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/11180",
+    "reviewed": "2026-11-15"
+  },
+  "11185": {
+    "description": "北岸观景公路沿苏必利尔湖雄伟的湖岸延伸，水面与陆地不断变化的景色构成旅程主线。沿途通往州立公园和苏必利尔国家森林，为四季户外活动提供丰富的自然环境。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/11185",
+    "reviewed": "2026-11-15"
+  },
+  "11290": {
+    "description": "这条风景道穿行于Sedona的红岩地区，高地荒漠中的巨大岩体与多样地貌仿佛一座露天博物馆。延续数千年的人类居住历史，也为红岩景色增添了文化意味。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/11290",
+    "reviewed": "2026-11-15"
+  },
+  "11510": {
+    "description": "旧加拿大公路沿缅因与魁北克之间世代往来的通道展开，US 201 在肯纳贝克河、怀曼湖与戴德河旁蜿蜒。古朴村落、山脊、森林与野生动物，让旅人感受这片边境地区延续至今的乡野风貌。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/11510",
+    "reviewed": "2026-11-15"
+  },
+  "12302": {
+    "description": "George Parks Highway穿过阿拉斯加腹地，沿途可欣赏德纳利国家公园周边的雪峰与广阔荒野。Nenana River、Healy矿业历史和沿线纪念地，又为自然景色增添了区域文化内容。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/12302",
+    "reviewed": "2026-11-15"
+  },
+  "12395": {
+    "description": "海恩斯公路沿奇尔卡特河穿过白头海雕的重要栖息地，鲑鱼洄游与独特的河流生态构成沿线亮点。这里也是特林吉特人的家园，村落文化、原住民古道与通往淘金地区的交通历史相互交织。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/12395",
+    "reviewed": "2026-11-15"
+  },
+  "12398": {
+    "description": "这是一条以渡轮串联阿拉斯加沿海社区的海上风景路线。航途中可从甲板眺望冰川，观察鲸、海狮与海鸟，并了解各地原住民文化、现代生活及海岸历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/12398",
+    "reviewed": "2026-11-15"
+  },
+  "12834": {
+    "description": "外滩群岛风景道穿过北卡罗来纳的障壁岛与海滨村落，沙丘、湿地、海岸林和野生动物保护地夹在大西洋与浅水海湾之间。历史灯塔、救生站、造船传统和渔村生活，共同保存着独特的海洋文化。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/12834",
+    "reviewed": "2026-11-15"
+  },
+  "13548": {
+    "description": "这条风景道穿过明尼苏达东北部的苏必利尔国家森林，从大马雷的湖岸景色延伸至 Sawtooth 山脊与边境湖区。阔叶林、针叶林和北方森林沿途交替，适合观鸟、划独木舟，感受四季不同的荒野风貌。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13548",
+    "reviewed": "2026-11-15"
+  },
+  "13739": {
+    "description": "道路在Chattahoochee National Forest环绕下，穿越阿巴拉契亚山脉南部的山谷与山口。Brasstown Bald的山顶视野、瀑布水雾和清凉山溪，是这段山地风景道的代表景观。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13739",
+    "reviewed": "2026-11-15"
+  },
+  "13740": {
+    "description": "这条道路位于美国本土西北角，沿Juan de Fuca海峡附近的海岸与森林延伸。鹰、灰鲸和水獭等野生动物，以及沿线原住民文化，为崎岖海岸风光增添了丰富内容。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13740",
+    "reviewed": "2026-11-15"
+  },
+  "13750": {
+    "description": "伊利诺伊州的林肯公路从林伍德通往富尔顿的密西西比河渡越地带，沿途交替出现城市街景、河畔小镇与起伏草原。这段道路通过地方风貌与公路记忆，讲述美国早期横贯大陆交通的故事。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13750",
+    "reviewed": "2026-11-15"
+  },
+  "13753": {
+    "description": "沿着这条道路走进西弗吉尼亚州东部狭长地带，追寻乔治·华盛顿的历史足迹。山谷、河流、泉水、旧工业遗迹和十八世纪小镇，共同构成兼具自然与文化特色的乡村景观。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13753",
+    "reviewed": "2026-11-15"
+  },
+  "13754": {
+    "description": "Woodward Avenue展现底特律与美国汽车工业紧密相连的历史。沿线著名工业建筑、办公楼、住宅宅邸、博物馆和文化机构，共同记录汽车如何塑造这座城市的生活与风貌。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13754",
+    "reviewed": "2026-11-15"
+  },
+  "13791": {
+    "description": "崎岖海岸、花岗岩山峰、清澈湖泊与云杉冷杉林构成阿卡迪亚的经典景色。沿途可探索国家公园的马车道与步道，眺望 Frenchman Bay 的船帆，走近 Bar Harbor 的历史别墅。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13791",
+    "reviewed": "2026-11-15"
+  },
+  "13792": {
+    "description": "Schoodic风景道展现缅因州海岸及Acadia National Park一带的自然与生活景象。沿途山地、近海岛屿、历史建筑和灯塔相互映衬，捕龙虾、采蛤与地方手工艺传统也延续其中。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13792",
+    "reviewed": "2026-11-15"
+  },
+  "13793": {
+    "description": "道路蜿蜒穿过起伏的田园乡间，展现阿米什人与北阿巴拉契亚社区的文化和历史。沿途的乡村生活、传统习俗与简朴生活方式，让过去的日常仍清晰可见。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13793",
+    "reviewed": "2026-11-15"
+  },
+  "13794": {
+    "description": "沿 Ashley River Road 可走近圣安德鲁教堂、Drayton Hall 与 Middleton Place 等历史地标。道路穿过的历史街区，记录了欧洲与非洲移民自殖民时期以来的定居、贸易和产业发展。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13794",
+    "reviewed": "2026-11-15"
+  },
+  "13828": {
+    "description": "走进密歇根州北部铜矿繁荣留下的历史景观。古老市镇、矿井地面建筑和当地居民的故事，共同记录铜矿开采如何推动地区及国家的发展。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13828",
+    "reviewed": "2026-11-15"
+  },
+  "13830": {
+    "description": "道路蜿蜒穿过缅因州西部的群山与湖泊，沿线分布着新英格兰风情村落、地方博物馆和丰富的野生动物栖息地。山湖景色与小镇历史共同构成这段旅程的特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13830",
+    "reviewed": "2026-11-15"
+  },
+  "13831": {
+    "description": "道路穿越Manti-La Sal National Forest的高地，将山地景色与工业发展史连接起来。煤矿、历史矿业城镇和发电设施呈现能源产业的脉络，邻近Sanpete Valley还保留着摩门教拓荒聚落。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13831",
+    "reviewed": "2026-11-15"
+  },
+  "13832": {
+    "description": "从历史伐木城镇Estacada出发，道路进入古老森林，沿线可近距离观赏瀑布、急流和宁静湖泊。雪冠火山与Clackamas River的河谷景色，展现了喀斯喀特山地西侧的自然魅力。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/13832",
+    "reviewed": "2026-11-15"
+  },
+  "16199": {
+    "description": "这条风景道围绕 Indian River Lagoon 河口区域展开，沿线栖息着丰富的动植物。海滨保护地、野生动物庇护区、博物馆与肯尼迪航天中心，将海岸自然、地方历史和航天探索汇集在同一走廊。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/16199",
+    "reviewed": "2026-11-15"
+  },
+  "16406": {
+    "description": "蜿蜒河流、林木点缀的谷地和起伏道路，为辽阔平原带来不同景色。沿途小镇与农庄之间，历史解说点、桥梁和步道讲述原住民、北欧移民与拓荒者的故事。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/16406",
+    "reviewed": "2026-11-15"
+  },
+  "39538": {
+    "description": "这段拉斯维加斯大道以旧城区的城市演变与霓虹招牌艺术为特色。从 Old Mormon Fort 到 Stratosphere 附近，历史婚礼教堂、旅馆和修复后的霓虹灯，保留着昔日城市的独特气氛。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/39538",
+    "reviewed": "2026-11-15"
+  },
+  "40532": {
+    "description": "道路的多条支线伸向Potomac River，串联早期教堂、天主教弥撒遗址和马里兰殖民时期首府Historic St. Mary’s City。沿途乡村风光与宗教历史交织，展现南马里兰的文化传承。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/40532",
+    "reviewed": "2026-11-15"
+  },
+  "49776": {
+    "description": "拉里亚特环线源于丹佛山地公园体系的早期观景道路，穿过莫里森、埃弗格林与戈尔登等历史小镇。狭窄山谷、落基山与东部平原景色之间，矿业、牧场、铁路和早期旅游的故事沿路展开。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/49776",
+    "reviewed": "2026-11-15"
+  },
+  "50186": {
+    "description": "风景道从Sonoran Desert高大的巨人柱仙人掌间出发，逐渐升入荫凉的针叶林。显著的海拔变化带来丰富的生态差异，也让沿途山景、徒步与野外活动各具特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/50186",
+    "reviewed": "2026-11-15"
+  },
+  "54772": {
+    "description": "冰期洪水反复冲刷玄武岩，造就了华盛顿州 Coulee Corridor 独特的峡谷地貌。沿途可探索湿地与观鸟地点、Grand Coulee 大坝及 Lake Roosevelt，在开阔风景中了解洪水塑造大地的过程。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/54772",
+    "reviewed": "2026-11-15"
+  },
+  "57185": {
+    "description": "莫霍克牵引道风景道沿纽约州历史运河系统展开，船闸、桥梁与十八、十九世纪建筑保存着运河运输的记忆。沿线还讲述原住民影响、美国革命、向西拓展与工业发展的地方故事。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/57185",
+    "reviewed": "2026-11-15"
+  },
+  "58611": {
+    "description": "伊利诺伊河在冰川融水雕琢的河谷间蜿蜒，展现河流塑造大地的力量。沿途森林、湿地、峭壁和草原随着季节改变色彩与节奏，为亲近自然和观察生态提供多样场景。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/58611",
+    "reviewed": "2026-11-15"
+  },
+  "59011": {
+    "description": "风景道串联湿地、辽阔草原与乡村社区，突出由自然环境塑造的地方生活。沙丘鹤、美洲鹤、鹈鹕、鹰及多种水鸟在这里停歇，让观鸟成为这条道路的重要特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/59011",
+    "reviewed": "2026-11-15"
+  },
+  "59836": {
+    "description": "这条俄亥俄州伊利湖岸路线串联湖岛、滨岸沼泽、草原、河流与瀑布，展现湖区悠久的自然和人类历史。航海博物馆、修复货轮、灯塔与历史遗址，讲述早期航运、地下铁路和1812年战争的故事。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/59836",
+    "reviewed": "2026-11-15"
+  },
+  "60441": {
+    "description": "串联 Jamestown、Williamsburg 和 Yorktown 三处历史地点，呈现英国殖民时期在北美的经历。道路本身也是美国景观道路设计的重要实例，历史环境与沿途风景相互融合。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/60441",
+    "reviewed": "2026-11-15"
+  },
+  "60646": {
+    "description": "Skyline Drive位于Shenandoah National Park的保护环境中，沿途观景点展现美国东部的山地景色。徒步小径、游客中心与野生动物观察机会，让这条道路成为认识公园自然环境的重要入口。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/60646",
+    "reviewed": "2026-11-15"
+  },
+  "60807": {
+    "description": "这条通往美国首都的景观道路，以绿地、历史遗址和河流风景相结合。沿线可了解华盛顿居住过的 Mount Vernon，眺望首都景观，并欣赏波托马克河 Great Falls 的自然景色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/60807",
+    "reviewed": "2026-11-15"
+  },
+  "61400": {
+    "description": "胡德山风景道串联火山与洪水塑造的峡谷、瀑布、温带雨林和奔流河道，沿途也有出产新鲜农产品的田园河谷。巴洛路作为俄勒冈古道艰难的最后阶段，为这片丰饶山地增添先驱旅行的历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/61400",
+    "reviewed": "2026-11-15"
+  },
+  "64115": {
+    "description": "道路穿过 Brandywine Valley，呈现贸易、农业、艺术与政治思想在这里交汇的历史。沿途土地与建筑保存着聚落发展的痕迹，也包括与反奴隶制“地下铁路”相关的历史遗存。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/64115",
+    "reviewed": "2026-11-15"
+  },
+  "68569": {
+    "description": "新泽西段 Palisades 风景道将纽约都会地区与大片受保护公园相连，带领旅人接近哈德逊河岸著名的峭壁地貌。沿线开阔河景和自然、历史地标，展现大都市附近的壮阔山水。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/68569",
+    "reviewed": "2026-11-15"
+  },
+  "73595": {
+    "description": "从内陆水道向大西洋岸延伸，经过盐沼、溪流、海岸森林、农田与历史教堂。沿途的手工草篮、农产摊位和海鲜码头，也展示 Edisto Island 悠闲而鲜明的地方生活。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/73595",
+    "reviewed": "2026-11-15"
+  },
+  "74696": {
+    "description": "这条印第安纳州道路连接历史小镇、河流与铁路绿道，沿途可了解地方建筑和历史地标。它还联系National Road与Ohio River两条风景道，共同记录美国西北领地的早期定居历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/74696",
+    "reviewed": "2026-11-15"
+  },
+  "75864": {
+    "description": "以 Ocala 国家森林为核心，连接 Silver Springs 与 Ormond Beach，穿行松林和清澈泉水汇成的亚热带溪流。野生动物、丰富的泉群及 Silver Springs 的玻璃底船，是沿途鲜明的特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/75864",
+    "reviewed": "2026-11-15"
+  },
+  "75866": {
+    "description": "奥蒙德风景环线以相连的八字形走廊串联佛罗里达海滩、水域、公园和灌丛景观。沿途既有汤莫卡州立公园等自然与历史地点，也有观察海鸟、海龟及季节性海上野生动物的机会。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/75866",
+    "reviewed": "2026-11-15"
+  },
+  "76017": {
+    "description": "沿切罗基勇士之路与荒野之路的历史走廊，串联 Cumberland Gap、山谷和古老村镇。开拓、铁路与地方人物的故事，和阿巴拉契亚音乐、手工艺及河湖风景交织在一起。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/76017",
+    "reviewed": "2026-11-15"
+  },
+  "76130": {
+    "description": "印第安纳历史路径从野牛踏出的通道，逐渐发展为先驱探索、驿马车旅行与现代公路的路线。连接俄亥俄河下游与密西西比河谷的途中，乡野、起伏丘陵、历史街区和森林共同讲述印第安纳的过去。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/76130",
+    "reviewed": "2026-11-15"
+  },
+  "77229": {
+    "description": "沿 US 276 穿过 Pisgah 国家森林，欣赏山峰与瀑布，并了解现代林业的发展历史。Looking Glass Falls、Cradle of Forestry 和 Biltmore 林业学校的往事，将森林景观与人类利用、保护森林的历程联系起来。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/77229",
+    "reviewed": "2026-11-15"
+  },
+  "81484": {
+    "description": "这条风景道以Spanish Peaks山群为核心，串联San Isabel National Forest、Stonewall山口和Goemmer Butte等自然景观。山地环境与多种文化交汇的历史，让道路兼具自然与人文吸引力。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81484",
+    "reviewed": "2026-11-15"
+  },
+  "81485": {
+    "description": "Silver Thread风景道保存着科罗拉多州白银开采热潮与旧日人物的历史记忆。道路联系大陆分水岭步道并与Old Spanish Trail交会，在高山景色中串起矿业时代的文化脉络。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81485",
+    "reviewed": "2026-11-15"
+  },
+  "81486": {
+    "description": "沿特拉华湾岸探索水域、盐沼、农田与历史海岸社区。北段沿历史悠久的 Route 9 延伸，南段则继续穿过滨水小镇，展示自然环境与地方生活相互依存的景观。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81486",
+    "reviewed": "2026-11-15"
+  },
+  "81488": {
+    "description": "这条走廊串起佛罗里达州的自然风光与地方历史，从公园、博物馆中讲述的早期居民故事，延伸到各城镇的历史街区。沿线兼有当代文化生活与保存至今的历史建筑。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81488",
+    "reviewed": "2026-11-15"
+  },
+  "81489": {
+    "description": "佛罗里达州Walton County的30A公路沿线分布白沙海滩、自然保护地与历史海滨社区。墨绿色海水、海岸沙丘湖和邻近公园步道，与小店、咖啡馆共同构成这条海岸道路的特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81489",
+    "reviewed": "2026-11-15"
+  },
+  "81493": {
+    "description": "爱荷华州林肯公路遗产道串联沿线社区，保存并讲述早期横贯大陆公路的故事。它融合既有道路、原住民路径、马车道与早期铺装路的历史，许多原有设施仍在持续保护和修复之中。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81493",
+    "reviewed": "2026-11-15"
+  },
+  "81495": {
+    "description": "旧法兰克福派克公路穿行肯塔基蓝草地区，保留连贯而完整的历史乡野景观。传统多样化农业与国际马业在这里并存，沿途风貌呈现这片土地数代以来的生活与产业演变。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81495",
+    "reviewed": "2026-11-15"
+  },
+  "81497": {
+    "description": "以石油天然气、伐木、交通与农业等产业的兴衰，讲述美国向西拓展中的成败与变迁。沿途还分布着森林、野生动物保护地和休闲公园，将地方工业历史与自然景观联系起来。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81497",
+    "reviewed": "2026-11-15"
+  },
+  "81499": {
+    "description": "这段崎岖海岸以荒野风光和悠久的人类定居历史为特色。潮汐与季节变化塑造了沿海社区的生活节奏，沿途自然景观也承载着原住民与后来定居者的历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81499",
+    "reviewed": "2026-11-15"
+  },
+  "81500": {
+    "description": "卡塔丁林水风景道将缅因州壮阔的山林、水域与野生动物景观带到旅人面前，适合徒步、划船和露营。沿线也能追随梭罗的足迹，寻找艺术家描绘过的风景，体会这片荒野对美国自然文化的影响。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81500",
+    "reviewed": "2026-11-15"
+  },
+  "81501": {
+    "description": "道路位于缅因州东北端的St. John河谷，邻近加拿大New Brunswick与Québec。沿线小镇、肥沃农田与深林交替出现，田园河谷的慢节奏生活展现了这片边境地区独特的地方文化。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81501",
+    "reviewed": "2026-11-15"
+  },
+  "81503": {
+    "description": "这条马萨诸塞州道路串联Arlington、Lexington、Lincoln和Concord，讲述美国独立革命的历史。Minute Man National Historical Park与爱默生、梭罗等作家的生活创作地点，也使沿线成为文学与思想史的重要走廊。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81503",
+    "reviewed": "2026-11-15"
+  },
+  "81504": {
+    "description": "莫霍克古道曾是原住民往来哈德逊河与康涅狄格河谷的重要通路，后来发展为马车与早期汽车旅行路线。今天的风景道把沿线自然景色与地方历史连接起来，呈现一条交通古道历经时代的变化。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81504",
+    "reviewed": "2026-11-15"
+  },
+  "81505": {
+    "description": "旧国王公路串联科德角早期民居、船长宅邸与维多利亚式建筑，历史街区沿路线展开。海湾湿地、开阔视野、蔓越莓沼泽和浓密树冠，为沿途的建筑与地方遗产提供自然背景。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81505",
+    "reviewed": "2026-11-15"
+  },
+  "81508": {
+    "description": "内布拉斯加州这段林肯公路承载着美国向西交通发展的历史，原住民、毛皮商人与迁徙者都曾沿这一走廊往来。沿途乡村小镇与历史标志，呈现道路如何影响社区形成与地区生活。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81508",
+    "reviewed": "2026-11-15"
+  },
+  "81509": {
+    "description": "内布拉斯加州2号公路横穿Sandhills大片固定沙丘，起伏草地间点缀着蓝色湖泊。开阔天空、河流与原生草原共同构成内陆腹地宁静而辽阔的景观。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81509",
+    "reviewed": "2026-11-15"
+  },
+  "81510": {
+    "description": "沿新泽西州的 Delaware Bay 水岸穿过开阔农田、保护地与历史村镇。船长故居、维多利亚式建筑和 Cape May 的海滨住宅，呈现渔业、造船与沿海社区共同塑造的历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81510",
+    "reviewed": "2026-11-15"
+  },
+  "81512": {
+    "description": "这条道路位于新泽西州西北部Sussex County的Highlands地区，沿途展现连绵高地与开阔景观。它属于更大范围的高地地理区域，景色与户外休闲环境随四季呈现不同面貌。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81512",
+    "reviewed": "2026-11-15"
+  },
+  "81515": {
+    "description": "Newfound Gap Road 连接加特林堡与切罗基，穿行大烟山国家公园的山林和河谷。弯曲山路、观景点、桦树与杜鹃植被，以及传统石砌设施，共同保留国家公园早期朴素自然的道路风貌。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81515",
+    "reviewed": "2026-11-15"
+  },
+  "81518": {
+    "description": "这条道路穿过罗得岛州Bristol，沿线保留历史住宅、滨水公园和列入国家史迹名录的市中心。林荫街道间可眺望Bristol Harbor与Narragansett Bay，也承载着历史悠久的独立日庆典传统。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81518",
+    "reviewed": "2026-11-15"
+  },
+  "81521": {
+    "description": "串联北部 Cumberland 高原、Cumberland Gap 与 Cumberland River，呈现山路、森林和独特地质景观。沿线曾是隐于山地的边疆地带，不同地貌也承载着各自的历史与人物故事。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81521",
+    "reviewed": "2026-11-15"
+  },
+  "81522": {
+    "description": "诺里斯风景道连接 Rocky Top 与 Halls，穿过田纳西河谷和州立公园的景色。路线经过的诺里斯大坝，展示了田纳西河谷管理局治理克林奇河与鲍威尔河流域洪水的工程创新历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81522",
+    "reviewed": "2026-11-15"
+  },
+  "81523": {
+    "description": "道路穿过田纳西州Sequatchie河谷，连接小镇、农田与鲜明的河谷地貌。沿途步道、河流和乡土文化之外，十九世纪末至二十世纪初的采矿历史也留在当地建筑与社区之中。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81523",
+    "reviewed": "2026-11-15"
+  },
+  "81524": {
+    "description": "这条犹他州风景道以高耸山峰、峡谷、台地与色彩鲜明的峭壁为特色，呈现锡安地区独特的地质与生态。沿线还可见古代居民留下的岩画、住居与粮仓遗迹，为自然风光增添人文历史。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81524",
+    "reviewed": "2026-11-15"
+  },
+  "81527": {
+    "description": "在威斯康星州 Door County 半岛探索水岸、公园与自然保护地。多样的生态环境孕育珍稀动植物，沿线的滨水社区和休闲步道，则把当地生活与自然景观联系起来。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81527",
+    "reviewed": "2026-11-15"
+  },
+  "81528": {
+    "description": "道路沿威斯康星州的苏必利尔湖岸延伸，连接Apostle Islands National Lakeshore及周边自然景观。沙滩、北方森林、瀑布步道和Brule River河口，让湖岸旅程兼具观景与户外探索特色。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81528",
+    "reviewed": "2026-11-15"
+  },
+  "81561": {
+    "description": "纽约段 Palisades 风景道属于历史公园大道体系，以连接城市与自然的观景体验为设计重点。沿途可欣赏纽约天际线、哈德逊河与哈肯萨克河景色，感受都会边缘的山水变化。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81561",
+    "reviewed": "2026-11-15"
+  },
+  "81573": {
+    "description": "这条风景道深入Pine Barrens的沙地松林，串联罕见的矮松、清澈溪湖与多样的动植物栖息地。自然景观还交织着原住民与欧洲移民的生活故事，呈现Pinelands独特的文化记忆。",
+    "descriptionSourceUrl": "https://fhwaapps.fhwa.dot.gov/bywaysp/StateMaps/Show/byway/81573",
+    "reviewed": "2026-11-15"
+  }
+}

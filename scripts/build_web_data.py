@@ -18,6 +18,7 @@ import json
 import math
 from pathlib import Path
 import re
+from urllib.parse import urlparse
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -87,6 +88,17 @@ def build(tolerance: float, updated: str) -> dict[str, object]:
         row["fhwa_id"]: row
         for row in csv.DictReader((ROOT / "americas_byways_coverage_report.csv").open(encoding="utf-8-sig", newline=""))
     }
+    descriptions = json.loads((ROOT / "content" / "route_descriptions.json").read_text(encoding="utf-8"))
+    if set(descriptions) != set(source_report):
+        raise ValueError("Road descriptions must cover exactly the route IDs in the coverage report")
+    for route_id, entry in descriptions.items():
+        description = entry.get("description", "")
+        source = urlparse(entry.get("descriptionSourceUrl", ""))
+        if not isinstance(description, str) or len(description.strip()) < 30:
+            raise ValueError(f"Missing or incomplete road description: {route_id}")
+        if source.scheme != "https" or not source.netloc:
+            raise ValueError(f"Invalid description source URL: {route_id}")
+        dt.date.fromisoformat(entry["reviewed"])
     route_data: dict[str, tuple[dict[str, str], list[list[list[float]]], list[dict[str, object]]]] = {}
     endpoint_records: dict[str, list[dict[str, object]]] = {}
     for placemark in tree.findall(".//k:Placemark", NS):
@@ -166,6 +178,9 @@ def build(tolerance: float, updated: str) -> dict[str, object]:
             "bounds": [[ymin, xmin], [ymax, xmax]],
             "overview": overview,
             "detailUrl": f"data/routes/{route_id}.json",
+            "description": descriptions[route_id]["description"].strip(),
+            "descriptionSourceUrl": descriptions[route_id]["descriptionSourceUrl"],
+            "descriptionReviewed": descriptions[route_id]["reviewed"],
             "note": note,
         })
         write_json(route_dir / f"{route_id}.json", {"id": route_id, "lines": lines, "endpoints": endpoints})
@@ -182,6 +197,7 @@ def build(tolerance: float, updated: str) -> dict[str, object]:
         "overviewToleranceMeters": tolerance,
         "updated": updated,
         "sourceFile": "americas_byways.kml",
+        "descriptionCount": len(descriptions),
         "sourceNote": "网页数据从仓库内既有KML转换；updated表示网页整理日期，并非重新核验联邦名录的日期。",
     }
     write_json(output / "index.json", {"meta": meta, "states": sorted(all_states), "routes": catalog})

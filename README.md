@@ -6,6 +6,8 @@
 
 The website uses the same layout as the Sunset Highway map: a map-first view with mobile controls, route search, state and designation filters, and source notes. Select a route to load its complete stored geometry and endpoints. The original KML, Network Link and CSV download URLs remain available.
 
+Every route popup and sidebar includes a Chinese road introduction, summarized from that route's FHWA page. The maintained content is in `content/route_descriptions.json`, keyed by FHWA ID, with a source URL and review date for every entry. The web-data builder requires complete description coverage, so rebuilding the map cannot silently drop an introduction. Geometry notes remain in the data and reports; the visitor-facing introduction describes the road's scenery, history and character.
+
 The default overview uses a 100-meter display simplification of each original LineString separately. Full route detail files preserve all 617,978 source coordinates and 19,700 source segments, including existing gaps or jumps. This display conversion does not claim improved source accuracy or current road access.
 
 This is a static GitHub Pages site with no backend or API key. Leaflet is bundled under `vendor/` with its license. Basemap tiles are provided by OpenStreetMap, with visible attribution and normal browser caching; no tile prefetching is enabled.
